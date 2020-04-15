@@ -17,10 +17,15 @@ plugins:
 
 authors:
     cam:
-      name:           Cam Davidson-Pilon
+      name:           Cameron Davidson-Pilon
       site:           https://dataorigami.net/
       avatar:         /assets/images/camdp.jpg
-      bio:            "Bad statistician turned even worse food scientist"
+      bio:            'Bad statistician turned even worse food scientist.
+
+
+Cameron''s background includes mathematics, statistics, computer science and spending a lot of time
+thinking about ecommerce at Shopify. He is the author of "Bayesian Methods for Hackers". Cameron later pivoted into food science and now explores the alt-protein space.'
+
       email:          cam.davidson.pilon@gmail.com
       twitter:        https://www.twitter.com/cmrn_dp
 
