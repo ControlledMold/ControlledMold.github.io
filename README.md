@@ -42,4 +42,6 @@ Admin: http://localhost:4000/admin/
 #### To Do
 
  - [ ] google analytics
+ - [ ] fix mathjax error
+ - [ ] recipe css
 
