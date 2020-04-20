@@ -24,10 +24,14 @@ Admin: http://localhost:4000/admin/
  ```
 ![img](url){:.center}
 
+```
+
  - creating a table
+
 
 ```
 {:.table-clean}
+
 | Enzyme                  | Optimal Activity Temp (℃) | Optimal Activity pH | Notes                                                                             | Papers                                                                                                                                      |
 |-------------------------|---------------------------|---------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 
@@ -35,7 +39,7 @@ Admin: http://localhost:4000/admin/
 ```
 
 
- To Do
+#### To Do
 
- [ ] google analytics
- [ ] author page
+ - [ ] google analytics
+
