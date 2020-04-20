@@ -44,4 +44,5 @@ Admin: http://localhost:4000/admin/
  - [ ] google analytics
  - [ ] fix mathjax error
  - [ ] recipe css
+ - [ ] set up formspree
 

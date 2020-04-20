@@ -28,7 +28,7 @@ The glucose and short-chained dextrin molecules can be consumed by the yeast, bu
 *Left: no koji added. Right: koji added before proofing.*
 
 
-There's a very clear difference. Immediately upon pulling the koji-loaf, one could smell a *cheesy-like* crust, and even taste cheese notes later. The crumb was mositer as well, likely because from the water previously trapped by starch molecules. 
+There's a very clear difference. Immediately upon pulling the koji-loaf, one could smell a *cheesy-like* crust, and even taste cheese notes later. The crumb was moister as well, likely because of the released water previously trapped by starch molecules. 
 
 ![results_crumb](/assets/images/enzyme_bread/CrumbEnzymes.jpg){:height="500" .center}
 *Left: no koji added. Right: koji added before proofing.*
@@ -37,7 +37,9 @@ There's a very clear difference. Immediately upon pulling the koji-loaf, one cou
 ### Recipe with koji addition to dough
 
 
-The recipe is adapted from the book*Flour, Water, Yeast, Salt*. It makes 2 large loaves. The total time, including proofing, is about 1 day. 
+The recipe is adapted from the book *Flour, Water, Yeast, Salt*. It makes 2 large loaves. The total time, including proofing, is about 1 day. 
+
+-----
 
 #### Poolish
 
