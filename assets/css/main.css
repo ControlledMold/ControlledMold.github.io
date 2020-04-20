@@ -3298,6 +3298,12 @@ input[type="button"].btn-block {
     align-items: center;
     justify-content: space-between; }
 
+.navbar-brand-subheader {
+    font-size: 12px;
+    font-style: italic;
+    margin: 0px;
+}
+
 .navbar-brand {
   display: inline-block;
   padding-top: 0.68rem;
@@ -4446,10 +4452,23 @@ input[type="button"].btn-block {
     background-color: #797e7b;
     border-color: #797e7b; }
 
+/*
+Custom css
+*/
+
 img.center {
     display: block;
     margin: 0 auto;
 }
+
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 75%;
+  margin: 5px 0px;
+  color: #696969;
+  font-style: normal;
+s}
 
 
 .table-clean {

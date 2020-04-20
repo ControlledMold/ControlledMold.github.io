@@ -1,5 +1,5 @@
 ---
-title: Enzymes produced by Aspergillus Oryzae
+title: The many enzymes produced by Aspergillus Oryzae
 tags:
 - koji
 - enzymes

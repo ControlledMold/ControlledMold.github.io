@@ -20,6 +20,10 @@ Admin: http://localhost:4000/admin/
 ![img](url){:height="36"}
  ```
 
+  - to center image:
+ ```
+![img](url){:.center}
+
  - creating a table
 
 ```

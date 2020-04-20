@@ -1,10 +1,10 @@
 # Site
 name: 'Controlled Mold'
-description: 'A blog about fermentation, food science, and urban cellular agriculture.'
+description: 'A blog about fermentation, science, and cell-ag'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 email: 'cam.davidson.pilon@gmail.com'
-
+disqus: controlledmold
 include: ["_pages"]
 permalink: /:title/
 
@@ -23,11 +23,13 @@ authors:
       bio:            'Bad statistician turned even worse food scientist.
 
 
-Cameron''s background includes mathematics, statistics, computer science and spending a lot of time
-thinking about ecommerce at Shopify. He is the author of "Bayesian Methods for Hackers". Cameron later pivoted into food science and now explores the alt-protein space.'
+Cameron''s background includes mathematics, statistics, computer science (blogging at <a href="https://dataorigami.net/">dataorigami.net</a>) and spending a lot of time
+thinking about biology. He is the author of <a href="https://www.amazon.ca/Bayesian-Methods-Hackers-Probabilistic-Programming/dp/0133902838">"Bayesian Methods for Hackers"</a>. Cameron later pivoted into food science and now explores the alt-protein space.'
 
       email:          cam.davidson.pilon@gmail.com
       twitter:        https://www.twitter.com/cmrn_dp
+      linkedin:       https://www.linkedin.com/in/cameron-davidson-pilon-708b5340/
+      github:         https://github.com/camDavidsonPilon
 
 
 # Defaults
