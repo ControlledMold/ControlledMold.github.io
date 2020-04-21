@@ -42,10 +42,8 @@ Admin: http://localhost:4000/admin/
 
 #### To Do
 
- - [ ] google analytics
  - [ ] fix mathjax error
  - [ ] recipe css
  - [ ] set up formspree
- - [ ] make logo stronger
  - [ ] move "all stories" images to the LHS
 
