@@ -3301,7 +3301,7 @@ input[type="button"].btn-block {
 .navbar-brand-subheader {
     font-size: 12px;
     font-style: italic;
-    margin: 0px;
+    margin: -5px 0px;
 }
 
 .navbar-brand {
