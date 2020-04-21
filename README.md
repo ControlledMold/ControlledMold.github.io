@@ -44,6 +44,4 @@ Admin: http://localhost:4000/admin/
 
  - [ ] fix mathjax error
  - [ ] recipe css
- - [ ] set up formspree
- - [ ] move "all stories" images to the LHS
 
