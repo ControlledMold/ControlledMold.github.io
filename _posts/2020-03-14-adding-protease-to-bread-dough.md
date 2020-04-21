@@ -1,6 +1,3 @@
-{::options parse_block_html="true" /}
-
-
 ---
 title: Adding enzymes to bread dough
 image: assets/images/enzyme_bread/protease_bread_header.jpg
@@ -14,6 +11,8 @@ tags:
 categories:
 - bread
 ---
+
+{::options parse_block_html="true" /}
 
 The main components of flour, starches and gluten, can be modified using enzymes to change the color, flavour and mouthfeel of finished bread. Here's an application of barley koji to make your homemade bread more interesting.
 
