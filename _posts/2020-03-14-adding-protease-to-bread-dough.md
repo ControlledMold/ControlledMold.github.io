@@ -8,6 +8,7 @@ tags:
 - protease
 - amylase
 - koji
+- featured
 categories:
 - bread
 ---
@@ -16,14 +17,27 @@ categories:
 
 The main components of flour, starches and gluten, can be modified using enzymes to change the color, flavour and mouthfeel of finished bread. Here's an application of barley koji to make your homemade bread more interesting.
 
-### What is the effect of enzymes on bread dough?
+### What are the effects of enzymes on bread dough?
 
-Koji contains two enzymes that will effect bread dough. *Protease*, an enzyme that cuts gluten, will start to chop up the gluten protein. This has a few effects. First, it will weaken the gluten network, resulting in a more pliable dough. However, in the limit (and we did this), the dough will become paste-like - not very attractive, but still tasty as a pizza dough. Second, as the protease cuts the proteins, more flavourful peptides and amino acids are released. This includes glutamine, which provides umami taste. The *amylase* in the koji will work on cutting the starches to smaller units, called dextrins, and eventually cut them into individual glucose units (recall starch is just a chain of glucose molecules).
+Koji contains two enzymes that will effect bread dough. *Protease*, an enzyme that cuts gluten, will start to chop up the gluten protein into smaller parts: peptides and amino acids. This has a few effects. First, it will weaken the gluten network, resulting in a more pliable dough. However, in the limit (and we did this), the dough will become paste-like - not very attractive, but still tasty as a pizza dough. Second, as the protease cuts the proteins, more flavourful peptides and amino acids are released. This includes glutamine, which provides umami taste. 
+
+[![protease](/assets/images/enzyme_bread/proteins.png)](/assets/images/enzyme_bread/proteins.png){:target="_blank" .center}
+*Amylase converting starch molecules to dextrins, and eventually glucose molecules.*
+
+The *amylase* in the koji will work on cutting the starches to smaller units, called dextrins, and eventually cut them into individual glucose units (recall starch is just a chain of glucose molecules).
+
+[![amylase](/assets/images/enzyme_bread/starch.png)](/assets/images/enzyme_bread/starch.png){:target="_blank" .center}
+*Protease working on protiens, converting them to small peptides and eventually amino acids.*
 
 
-[![amylase](/assets/images/enzyme_bread/BreadEnzymes.png)](/assets/images/enzyme_bread/BreadEnzymes.png){:target="_blank" .center}
+The glucose and short-chained dextrin molecules can be consumed by the yeast, but more likely they will combine with the recently-liberated peptides and amino acids via the Maillard reaction. The abundance of glucose and peptides causes a deeper browning and more flavour than dough without these enzymes. 
 
-The glucose and short-chained dextrin molecules can be consumed by the yeast, but more likely they will combine with the recently-liberated peptides via the Maillard reaction. The abundance of glucose and peptides causes a deeper browning and more flavour than dough without these enzymes. You can see the results below:
+
+![maillard](/assets/images/enzyme_bread/maillard.png){:.center}
+*Maillard reaction: short chain dextrins and glucose reacts with peptides and amino acids, causing that deep brown crust and "baked" flavour*
+
+
+But can we see these changes at a macro level? We split a bread dough in two, and added koji to one of the halves. You can see the results:
 
 
 ![results](/assets/images/enzyme_bread/protease_bread_header.jpg){:height="600" .center}

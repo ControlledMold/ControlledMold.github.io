@@ -4480,6 +4480,12 @@ img.center {
     margin: 0 auto;
 }
 
+img.center_extrawide {
+  max-width: 130%;
+  display: block;
+  margin: 0 auto;
+}
+
 img + em {
   display: block;
   text-align: center;
@@ -4487,7 +4493,16 @@ img + em {
   margin: 5px 0px;
   color: #696969;
   font-style: normal;
-s}
+}
+
+a + em {
+  display: block;
+  text-align: center;
+  font-size: 75%;
+  margin: 5px 0px;
+  color: #696969;
+  font-style: normal;
+}
 
 
 .table-clean {
