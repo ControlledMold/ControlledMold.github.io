@@ -4475,6 +4475,14 @@ Custom css
   }
 }
 
+.table-of-contents{
+  margin: 30px 0px;
+}
+
+.toc-content{
+  margin-left: 20px;
+}
+
 img.center {
     display: block;
     margin: 0 auto;
