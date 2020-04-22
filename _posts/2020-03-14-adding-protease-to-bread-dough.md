@@ -37,21 +37,21 @@ The glucose and short-chained dextrin molecules can be consumed by the yeast, bu
 *Maillard reaction: short chain dextrins and glucose reacts with peptides and amino acids, causing that deep brown crust and "baked" flavour*
 
 
-But can we see these changes at a macro level? We split a bread dough in two, and added koji to one of the halves. You can see the results:
+But can we see these changes at a macro level? We prepared a dough (see recipe below), and split it into two halves prior to the bulk-ferment and proofing stages. We added barley koji to one half, and otherwise kept everything else the same. You can see the results:
 
 
 ![results](/assets/images/enzyme_bread/protease_bread_header.jpg){:height="600" .center}
 *Left: no koji added. Right: koji added before proofing.*
 
 
-There's a very clear difference. Immediately upon pulling the koji-loaf, one could smell a *cheesy-like* crust, and even taste cheese notes later. The crumb was moister as well, likely because of the released water previously trapped by starch molecules.
+There's a very clear difference. Immediately upon pulling the koji-loaf, one could smell a *cheesy-like* crust (think: those chedder cheese buns you can buy at grocery stores), and even taste cheesy notes later. The crumb was moister as well, likely because of the released water previously trapped by starch molecules.
 
 ![results_crumb](/assets/images/enzyme_bread/CrumbEnzymes.jpg){:height="500" .center}
 *Left: no koji added. Right: koji added before proofing.*
 
 -----
 
-### Recipe with koji addition to dough
+### Recipe for koji addition to dough
 
 
 The recipe is adapted from the book *Flour, Water, Yeast, Salt*. It makes 2 large loaves. The total time, including proofing, is about 1 day. The poolish (a pre-ferment) is created first, and used in the final dough
