@@ -11,16 +11,16 @@ categories:
 - koji
 ---
 
-We'll go through the  steps required to make your own koji - *without using koji-kin (spores)*. You'll still need a source of the koji, but that can be from inoculated rice you've previously purchased.
+We'll go through the  steps required to make your own koji - *without using koji-kin (spores)*.  You'll still need a source of the koji, but that can be from inoculated rice you've previously purchased¹.
 
 ### Theory
-To grow koji successfully, we need to provide it with a healthy environment. This means: warm, humid, free of competing microbes, rich in nutrients, high in carbon source, available oxygen. The substrate source can really be anything (one reason why koji is so amazing), but the enzymes produced will be a function of the substrate. For example, a substrate that is high in fats (lipids) will encourage the koji to produce more lipase.
+To grow koji successfully, we need to provide it with a healthy environment. This means: warm, humid, free of competing microbes, rich in nutrients, high in carbon source, and available oxygen. The substrate source can really be anything (one reason why koji is so amazing), but the enzymes produced will be a function of the substrate. For example, a substrate that is high in fats (lipids) will encourage the koji to produce more lipase. Pearled barley is one of the easiest substrates to get started with. 
 ### Protocol
 
 Here's what you'll need beforehand:
 
  - 20g of inoculated koji and a coffee grinder, **or** pack of koji-spores
- - 500g of a substrate: dried pearl barley or rice
+ - 500g of a substrate: dried pearled barley or rice
  - pressure cooker
  - glass tray
  - serving spoon
@@ -36,9 +36,9 @@ Here's what you'll need beforehand:
 
 ![cooking_barly](/assets/images/growing_koji/cooking_barly.jpg){:height="400" .center}
 
-3\. Pressure cook for 15min, and remove from heat. Keep closed to avoid introducing contaminants. Let cool down for a few hours. Have a tea.
+3\. Pressure cook for 15min, and remove from heat. **Keep closed to avoid introducing contaminants**. Let cool down for a few hours. Have a tea.
 
-4\. Sanitize the spoon, tray, coffee grinder, and inside of the incubator.
+4\. Sanitize the workspace, spoon, tray, coffee grinder (if needed), and inside of the incubator.
 
 5\. If using inoculated koji, grind in coffee grinder until powdered.
 
@@ -48,7 +48,7 @@ Here's what you'll need beforehand:
 
 ![koji_ground](/assets/images/growing_koji/koji_ground.jpg){:height="400" .center}
 
-6\. Once cooker is warm-to-the-touch: in a draft-free area, open the pressure cooker slightly and stick in a sanitized thermometer. Wait for it to read less than 45℃. If so, transfer the substrate to the tray (the spoon helps). The transfer should cool the substrate down to less than 40℃, which is needed to not kill the koji inoculant. The grains should feel soft and easy to squish.
+6\. Once cooker is warm-to-the-touch: in a draft-free area, open the pressure cooker slightly and stick in a sanitized thermometer. Wait for it to read at most 45℃. When ready, transfer the substrate to the tray (the spoon helps, or your gloved hand). The transfer should cool the substrate down to less than 40℃, which is needed to not kill the koji inoculant. The grains should feel soft and easy to squish.
 
 ![preinocc](/assets/images/growing_koji/preinocc.jpg){:height="420" .center}
 
@@ -56,7 +56,7 @@ Here's what you'll need beforehand:
 
 ![postinocc](/assets/images/growing_koji/postinocc.jpg){:height="400" .center}
 
-8\. Form "peaks and troughs" with the substrate. Your goal is to maximize the surface area of the koji. Koji needs oxygen, and more surface area means more available oxygen (called *oxygen mass transfer*).
+8\. Form "peaks and troughs" with the substrate. Your goal is to maximize the surface area of the koji. Koji needs oxygen, and more surface area means more available oxygen.
 
 9\. Cover tray with dampened towel (rinse towel over water, wring out until only a few drops leave).
 
@@ -91,3 +91,6 @@ Here's what you'll need beforehand:
 17\. To halt the koji growth, cover with a lid and place in refrigerator.
 
 18\. Useful tip: after a few hours in the fridge, open the lid and wipe off the condensed moisture from the lid. This moisture can fall into the koji and create sour aromas and flavours later.
+
+
+¹ I actually suspect the spores bought online have been selected to sporulate quickly. After all, the manufaturer is (unknowingly?) choosing koji that spores well, and not necessarily koji that produces lots of enzymes. For this reason, I prefer using blended koji rice (which _has_ been selected for enzyme activity).
