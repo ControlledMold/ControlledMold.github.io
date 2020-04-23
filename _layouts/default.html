@@ -30,6 +30,23 @@
 
     {% include tracking-header.html %}
 
+    <script>
+    MathJax.Hub.Config({
+                scale: 100,
+                extensions: ["tex2jax.js"],
+                jax: ["input/TeX", "output/HTML-CSS"],
+                tex2jax: {
+                  inlineMath: [['$','$']],
+                  displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                  processEscapes: true
+                },
+                "HTML-CSS": { availableFonts: ["TeX"] },
+                TeX: { equationNumbers: { autoNumber: "AMS" } }
+
+              });
+    </script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
