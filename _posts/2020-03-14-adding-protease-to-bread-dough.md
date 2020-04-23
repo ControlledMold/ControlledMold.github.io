@@ -19,7 +19,7 @@ The main components of flour, starches and gluten, can be modified using enzymes
 
 ### What are the effects of enzymes on bread dough?
 
-Koji contains two enzymes that will effect bread dough. *Protease*, an enzyme that cuts gluten, will start to chop up the gluten protein into smaller parts: peptides and amino acids. This has a few effects. First, it will weaken the gluten network, resulting in a more pliable dough. However, in the limit (and we did this), the dough will become paste-like - not very attractive, but still tasty as a pizza dough. Second, as the protease cuts the proteins, more flavourful peptides and amino acids are released. This includes glutamine, which provides umami taste. 
+Koji contains two enzymes that will effect bread dough. *Protease*, an enzyme that cuts gluten, will start to chop up the gluten protein into smaller parts: peptides and amino acids. This has a few effects. First, it will weaken the gluten network, resulting in a more pliable dough. However, in the limit (and we did this), the dough will become paste-like - not very attractive, but still tasty as a pizza dough. Second, as the protease cuts the proteins, more flavourful peptides and amino acids are released. This includes glutamine, which provides umami taste.
 
 [![protease](/assets/images/enzyme_bread/proteins.png)](/assets/images/enzyme_bread/proteins.png){:target="_blank" .center}
 *Amylase converting starch molecules to dextrins, and eventually glucose molecules.*
@@ -30,10 +30,10 @@ The *amylase* in the koji will work on cutting the starches to smaller units, ca
 *Protease working on protiens, converting them to small peptides and eventually amino acids.*
 
 
-The glucose and short-chained dextrin molecules can be consumed by the yeast, but more likely they will combine with the recently-liberated peptides and amino acids via the Maillard reaction. The abundance of glucose and peptides causes a deeper browning and more flavour than dough without these enzymes. 
+The glucose and short-chained dextrin molecules can be consumed by the yeast, but more likely they will combine with the recently-liberated peptides and amino acids via the Maillard reaction. The abundance of glucose and peptides causes a deeper browning and more flavour than dough without these enzymes.
 
 
-![maillard](/assets/images/enzyme_bread/maillard.png){:.center}
+[![Maillard](/assets/images/enzyme_bread/maillard.png)](/assets/images/enzyme_bread/maillard.png){:target="_blank" .center}
 *Maillard reaction: short chain dextrins and glucose reacts with peptides and amino acids, causing that deep brown crust and "baked" flavour*
 
 
