@@ -13,10 +13,7 @@ categories:
 - bread
 ---
 
-{::options parse_block_html="true" /}
-
 The main components of flour, starches and gluten, can be modified using enzymes to change the color, flavour and mouthfeel of finished bread. Here's an application of barley koji to make your homemade bread more interesting.
-
 ### What are the effects of enzymes on bread dough?
 
 Koji contains two enzymes that will effect bread dough. *Protease*, an enzyme that cuts protiens, will start to chop up the gluten protein into smaller parts: peptides and amino acids. This has a few effects. First, it will weaken the gluten network, resulting in a more pliable dough. However, in the limit (and we did this), the dough will become paste-like - not very attractive, but still tasty as a pizza dough. Second, as the protease cuts the proteins, more flavourful peptides and amino acids are released. This includes glutamine, which provides umami taste.
@@ -56,6 +53,7 @@ There's a very clear difference. Immediately upon pulling the koji-loaf, one cou
 
 The recipe is adapted from the book *Flour, Water, Yeast, Salt*. It makes 2 large loaves. The total time, including proofing, is about 1 day. The poolish (a pre-ferment) is created first, and used in the final dough
 
+{::options parse_block_html="true" /}
 
 <div class="recipe">
 
