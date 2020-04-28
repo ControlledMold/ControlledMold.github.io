@@ -14,7 +14,7 @@ categories:
 We'll go through the  steps required to make your own koji - *without using koji-kin (spores)*.  You'll still need a source of the koji, but that can be from inoculated rice you've previously purchased¹.
 
 ### Theory
-To grow koji successfully, we need to provide it with a healthy environment. This means: warm, humid, free of competing microbes, rich in nutrients, high in carbon source, and available oxygen. The substrate source can really be anything (one reason why koji is so amazing), but the enzymes produced will be a function of the substrate. For example, a substrate that is high in fats (lipids) will encourage the koji to produce more lipase. Pearled barley is one of the easiest substrates to get started with. 
+To grow koji successfully, we need to provide it with a healthy environment. This means: warm, humid, free of competing microbes, rich in nutrients, high in carbon source, and available oxygen. The substrate source can really be anything (one reason why koji is so amazing), but the enzymes produced will be a function of the substrate. For example, a substrate that is high in fats (lipids) will encourage the koji to produce more lipase. Pearled barley is one of the easiest substrates to get started with.
 ### Protocol
 
 Here's what you'll need beforehand:
@@ -93,4 +93,4 @@ Here's what you'll need beforehand:
 18\. Useful tip: after a few hours in the fridge, open the lid and wipe off the condensed moisture from the lid. This moisture can fall into the koji and create sour aromas and flavours later.
 
 
-¹ I actually suspect the spores bought online have been selected to sporulate quickly. After all, the manufaturer is (unknowingly?) choosing koji that spores well, and not necessarily koji that produces lots of enzymes. For this reason, I prefer using blended koji rice (which _has_ been selected for enzyme activity).
+¹ I actually suspect the spores bought online have been selected to sporulate quickly. After all, the manufacturer is (unknowingly?) choosing koji that spores well, and not necessarily koji that produces lots of enzymes. For this reason, I prefer using blended koji rice (which _has_ been selected for enzyme activity).
