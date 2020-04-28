@@ -37,6 +37,5 @@ In [[1]](https://sci-hub.tw/10.1016/0168-1656(90)90065-J), the authors conclude 
 [![wheat_bran_substrate](/assets/images/koji_lactase/wheat_bran_substrate.png)](/assets/images/koji_lactase/wheat_bran_substrate.png){:target="_blank" .center}
 *Figure 4. With limited lactose in the cell, glucose levels are lower (relatively) and lactase production continues*
 
-
 #### References
  1. Bailey, M. J., & Linko, M. (1990). Production of β-galactosidase by Aspergillus oryzae in submerged bioreactor cultivation. Journal of Biotechnology, 16(1-2), 57–66. doi:10.1016/0168-1656(90)90065-j

@@ -4519,6 +4519,8 @@ a + em {
     border-spacing: 0;
     font-size: 13px;
     margin-bottom: 40px;
+    width: 120%;
+    table-layout: fixed;
 }
 .table-clean thead th {
     background-color: #DCDCDC;
