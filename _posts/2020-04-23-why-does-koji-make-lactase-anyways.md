@@ -10,15 +10,15 @@ categories:
 - koji
 ---
 
-An interesting question came up on the Koji subreddit about if one can make [lactose-free milk at home using koji](https://www.reddit.com/r/Koji/comments/g6lpnt/using_koji_to_make_lactose_free_milk/). The thread has some interesting replies, but I want to focus on an adjacent question that wasn't clear to me until I did some research. It's known that many fungi, including our friend Aspergillus Oryzae (koji), produce the enzyme lactase, which breaks down lactose into its subunits: glucose and galactose. See the Figure 1 below. (Lactase is also present in humans, but only into those who are not lactose-intolerant!)
+An interesting question came up on the Koji subreddit about if one can make [lactose-free milk at home using koji](https://www.reddit.com/r/Koji/comments/g6lpnt/using_koji_to_make_lactose_free_milk/). The thread has some interesting replies, but in this article I want to focus on an adjacent question that wasn't obvious to me until I did some research. It's known that many fungi, including our friend Aspergillus Oryzae (koji), produce the enzyme lactase, which breaks down lactose into its subunits: glucose and galactose. See Figure 1 below.
 
 [![lactase](/assets/images/koji_lactase/lactase.png)](/assets/images/koji_lactase/lactase.png){:target="_blank" .center}
 *Figure 1. The lactase enzyme working on lactose sugar. Lactose is made up of glucose and galactose molecules.*
 
 
-Research has shown that koji produces lactase on a wide variety of substrates, including wheat bran and spent beer grain - but these substrates don't contain lactose. In fact, the only natural source of lactose is mammalian milk, and koji didn't evolve to ferment milk. So why is koji producing lactase? What's going on?
+Research has shown that koji produces lactase on a wide variety of substrates, including wheat bran and spent beer grain - but these substrates don't contain lactose. In fact, the only natural source of lactose is mammalian milk, and koji didn't evolve to ferment milk. So why is koji producing lactase in the first place? What's going on?
 
-### Why does koji produce lactase in the first place?
+### Why does koji produce lactase?
 
 First, we note that lactase only acts on lactose (i.e. lactase has a very high _specificity_), so lactose must be present somewhere, else there would be no reason to produce lactase. Second, we note that lactase is an intracellular enzyme. From this, we can conclude that lactose is present _inside the cell_. Third: the koji is also "digesting" other carbohydrates, like starch, cellulose and hemicellulose. The former two are well known, but hemicellulose may not be. It's a carbohydrate that is found in plants (up to 30% of biomass), and contains a wide variety of sugars (not just glucose, the only sugar in cellulose). Galactose is one such sugar present in hemicellulose. When that galactose is attached to a glucose molecule, this looks like a lactose molecule. During digestion of hemicellulose by other enzymes (cellulase, etc.), the glucose-galactose a.k.a. lactose molecule is released.
 
