@@ -4485,7 +4485,7 @@ Custom css
 
 img.center {
     display: block;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 img.center_extrawide {
