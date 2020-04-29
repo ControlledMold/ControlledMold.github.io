@@ -25,7 +25,7 @@ Our modified assay at a high level follows these steps - we'll explain each in d
 1. Extract enzymes from the koji. This is our _crude enzyme extract_.
 2. Set up a water bath at 40℃.
 3. Add skim milk, pH buffer, and crude enzyme extract into vials. Place in water bath and start a stopwatch.
-4. At first detection of coagulation particles, stop the stopwatch and record time.
+4. At first detection of coagulated particles, stop the stopwatch and record time.
 
 
 ### Experiment
@@ -45,7 +45,7 @@ Our modified assay at a high level follows these steps - we'll explain each in d
 
     ![vials](/assets/images/protease_assay/vials.jpg){:height="440" .center}
 
-4. I added them to the water bath and let sit for 10m to fully heat to 40℃
+4. I added all five vials to the water bath and let sit for 10m to fully heat to 40℃
     ![water bath](/assets/images/protease_assay/waterbath.jpg){:height="460" .center}
 5. I added 1ml of crude enzyme extract to vials 3 ,4, & 5. Put back into the waterbath. I started a stopwatch.
 6. Every few minutes, I would pick up a vial, shake it, and try to observe any coagulation. Shining a light on the vial helped see any floating particles.
