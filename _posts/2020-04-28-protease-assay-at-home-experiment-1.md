@@ -47,7 +47,7 @@ Our modified assay at a high level follows these steps - we'll explain each in d
 
 4. I added all five vials to the water bath and let sit for 10m to fully heat to 40℃
     ![water bath](/assets/images/protease_assay/waterbath.jpg){:height="460" .center}
-5. I added 1ml of crude enzyme extract to vials 3 ,4, & 5. Put back into the waterbath. I started a stopwatch.
+5. I added 1ml of crude enzyme extract to vials 3, 4, & 5. Put back into the waterbath. I started a stopwatch.
 6. Every few minutes, I would pick up a vial, shake it, and try to observe any coagulation. Shining a light on the vial helped see any floating particles.
 7. At the first sign of coagulation, I record the time on the stopwatch. My times were: 28:29, 30:18, and 31:50. Average (std. dev): 30.2 (1.4) minutes.
 

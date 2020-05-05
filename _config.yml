@@ -9,6 +9,7 @@ include: ["_pages"]
 permalink: /:title/
 url: https://controlledmold.github.io
 enforce_ssl: controlledmold.github.io
+url: "https://controlledmold.com" # the base hostname & protocol for your site
 
 # Plugins
 plugins:
@@ -16,6 +17,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 authors:
     cam:

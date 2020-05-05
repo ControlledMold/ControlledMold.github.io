@@ -45,4 +45,5 @@ Admin: http://localhost:4000/admin/
  - [ ] fix mathjax error
  - [ ] recipe css
  - [ ] mailing list
+ - [ ] sitemap.xml
 
