@@ -13,10 +13,11 @@ categories:
 - bread
 ---
 
-The main components of flour, starches and gluten, can be modified using enzymes to change the color, flavour and mouthfeel of finished bread. Here's an application of barley koji to make your homemade bread more interesting.
+The main components of flour, starches and gluten, can be modified using enzymes to change the color, flavour and mouthfeel of finished bread. Here's an application of [barley koji](https://controlledmold.com/growing-koji/) to make your homemade bread more interesting.
+
 ### What are the effects of enzymes on bread dough?
 
-Koji contains two enzymes that will effect bread dough. *Protease*, an enzyme that cuts proteins, will start to chop up the gluten protein into smaller parts: peptides and amino acids. This has a few effects. First, it will weaken the gluten network, resulting in a more pliable dough. However, in the limit (and we did this), the dough will become paste-like - not very attractive, but still tasty as a pizza dough. Second, as the protease cuts the proteins, more flavourful peptides and amino acids are released. This includes glutamine, which provides umami taste.
+Koji contains at least two enzymes that will effect bread dough. *Protease*, an enzyme that cuts proteins, will start to chop up the gluten protein into smaller parts: peptides and amino acids. This has a few effects. First, it will weaken the gluten network, resulting in a more pliable dough. However, in the limit (and we did this), the dough will become paste-like - not very attractive, but still tasty as a pizza dough. Second, as the protease cuts the proteins, more flavourful peptides and amino acids are released. This includes glutamine, which provides an umami taste.
 
 [![protease](/assets/images/enzyme_bread/proteins.png)](/assets/images/enzyme_bread/proteins.png){:target="_blank" .center}
 *Protease working on proteins, converting them to small peptides and eventually amino acids.*
