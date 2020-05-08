@@ -15,6 +15,12 @@ tags:
 
 A long term goal of mine is to create a plant-based canned anchovy substitute. My market research has shown me that everyone is asking for this! Kidding, of course. The anchovy market is already small, and plant-based anchovies are certainly _not_ the "killer app" of plant-based meats. But anchovies are something that I really miss (I'm vegetarian), an interesting fermentation project, and is a _forever unclaimed_ space in the plant-based market. This article will be an evolving article on what makes the anchovy taste that way it does, and how we can try to replicate that taste with plant-based alternatives.
 
+<div class="callout">
+
+💡 Oh, one thing: I'm just looking to replicate the taste, not the texture. Most applications of anchovies are as a flavour-booster, and not to add texture. So this project is really trying to replicate an anchovy paste, but everything still applies.
+
+</div>
+
 ## How canned anchovies are made
 
 There are [some interesting videos](https://www.youtube.com/watch?v=otxy3YL_eSk) on Youtube about how traditional anchovies are processed. The process starts with beheading and eviscerating the anchovy fish. Next they are washed in water (sometimes salt water) and then packed in salt and compressed. Here they age for months to years. I suspect that this is not a sterile environment, and there is a fermentation happening here with salt-tolerant bacteria, and some sort of enzymatic action - we'll discuss this more later. After this salt stage, they are deboned, laid into cans or jars, and filled with olive oil (and maybe vinegar), and sealed. As far as I know, there is not a pasteurization / cooking step after canning - the fact that they are sold refrigerated suggest this as well. So the anchovies purchased by consumers are likely a "living" product (i.e. contains bacteria), a fact that we can take advantage of.
@@ -80,7 +86,7 @@ We also have the problem of carbohydrates. Anchovies are almost completely prote
 
 <div class="recipe-ingredients">
 
-- 200g dried soy beans, soaked overnight
+- 200g dried soy beans, soaked overnight and rinsed
 - 150g barely koji
 - 2 sheets of nori seaweed, ripped up
 - 1/2 anchovy fillet
@@ -89,16 +95,17 @@ We also have the problem of carbohydrates. Anchovies are almost completely prote
 
 </div>
 
-1. Autoclave dried soybeans for 15-20 minutes (add whatever minimal amount of water is needed). Let cool to nearly room temp.
+1. Autoclave soybeans for 15-20 minutes (add whatever minimal amount of water is needed). Let cool to nearly room temp.
 2. In food processor, add soy beans, barely koji, sheets of nori, anchovy, and oil.
 4. Add 10% salt by weight + 1cup water
-5. put into container with saran wrap and pressed with weights.
-6. Let ferment for many months.
+5. Put into fermentation container, cover with saran wrap, and press with weights.
+6. Let ferment for many months. Not sure how long yet
 
 </div>
 
 
 ![food processor](/assets/images/anchovies/mixture.jpg){:height="400" .center}
+*The "anchovy mix" after step 2.*
 
 
 

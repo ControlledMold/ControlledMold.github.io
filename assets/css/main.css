@@ -4488,6 +4488,11 @@ iframe.center {
     margin: 20px auto;
 }
 
+.callout {
+  padding: 25px 25px;
+  background-color: rgb(244,244,244);
+}
+
 img.center {
     display: block;
     margin: 10px auto;
