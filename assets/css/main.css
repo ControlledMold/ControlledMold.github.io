@@ -4483,6 +4483,11 @@ Custom css
   margin-left: 20px;
 }
 
+iframe.center {
+    display: block;
+    margin: 10px auto;
+}
+
 img.center {
     display: block;
     margin: 10px auto;
