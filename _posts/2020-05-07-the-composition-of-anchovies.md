@@ -1,5 +1,5 @@
 ---
-title: The composition of a plant-based anchovy
+title: The start of a plant-based anchovy
 image: assets/images/anchovies/tin.jpg
 categories:
 - anchovy project
