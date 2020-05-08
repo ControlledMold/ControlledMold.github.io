@@ -31,7 +31,7 @@ During the salting stage, there is proteolytic (protein cutting) action happenin
 
 It's the proteolytic action that creates the massive umami bomb that anchovies have. It's unsurprising that anchovies contains high levels of the amino acid glutamate, the dominant umami flavour compound, which comes from proteases releasing individual amino acids. In fact, glutamic acid, the precursor to glutamate, is the most abundant amino acid in anchovies [4].
 
-Note that anchovies are almost protein and fat, and hence contain little carbohydrates. To make a plant-based anchovy, we need to find a source that is high in protein and a similar amino acid profile. Soy beans actually satisfies this well. Soy beans are up to 50% protein and have a high level of glutamic acid. However, soy does come with carbohydrates, which we'll address later.
+To make a plant-based anchovy, we need to find a source that is high in protein and a similar amino acid profile. Soy beans actually satisfies this well. Soy beans are up to 50% protein and have a high level of glutamic acid! Note that anchovies are almost protein and fat, and hence contain little carbohydrates. However, soy does come with carbohydrates, which we'll address later.
 
 ### Nucleotides and umami
 
