@@ -43,13 +43,13 @@ While inosinate typically has non-plant sources, a plant-based compound that als
 Umami isn't all that makes anchovies delicious. If it was just umami we wanted, we'd be adding yeast extract to our pasta sauces. Anchovies also have a distinct fishy smell that comes from the decomposition of fatty acids found in fish.  Raw anchovies predominately contain the ⍵-3 fatty acid docosahexaenoic acid (DHA), but also some levels of ⍵-3 fatty acid EPA [4]. These ⍵-3 fatty acids are relatively unstable compared to other fatty acids, and breakdown over time into odors that we associate with fish.
 
 ![EPA oxidation species](/assets/images/anchovies/EPAoxidation.png){:.center}
-*From [5], an overall great article for this project*
+*From [5], an overall great article for this project.*
 
-DHA and EPA are rare to find outside of fish. To make a plant-based product, we need to find a substitute or a plant-based source for DHA and EPA. For a substitute, a common ⍵-3 fatty acid in plants is alpha-linolenic acid (ALA). In fact, it's found in soybeans. We might expect that the decomposition of ALA could provide a fishy smell, but it's not nearly as strong as what we want [5]. A plant-based source of DHA and EPA is actually in algae (where do you think fish get their EPA and DHA from). For example, the species Nannochloropsis is high in DHA.  Hence why I'm starting my algae cultures - to eventually harvest and use in ferments!
+DHA and EPA are rare to find outside of fish. To make a plant-based product, we need to find a substitute or a plant-based source for DHA and EPA. For a substitute, a common ⍵-3 fatty acid in plants is alpha-linolenic acid (ALA). In fact, it's found in soybeans. We might expect that the decomposition of ALA could provide a fishy smell, but it's not nearly as strong as what we want [5]. A plant-based source of DHA and EPA is actually in algae (where do you think fish get their EPA and DHA from). For example, the species Nannochloropsis is high in EPA.  Hence why I'm starting my algae cultures - to eventually harvest and use in ferments!
 
 ![Nannochloropsis](/assets/images/anchovies/nanno.jpg){:height="480" .center}
 *My growing Nannochloropsis - isn't that green just lovely!
-Cultures from [Algae Research and Supply](https://algaeresearchsupply.com/)*
+Cultures from [Algae Research and Supply](https://algaeresearchsupply.com/).*
 
 
 
