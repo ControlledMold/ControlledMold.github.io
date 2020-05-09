@@ -89,7 +89,7 @@ We also have the problem of carbohydrates. Anchovies are almost completely prote
 - 200g dried soy beans, soaked overnight and rinsed
 - 150g barely koji
 - 2 sheets of nori seaweed, ripped up
-- 1/2 anchovy fillet
+- 1/2 anchovy fillet from a non-pasteurized can
 - 1tsp DHA oil (later will be lysed algae)
 - salt
 
@@ -99,7 +99,7 @@ We also have the problem of carbohydrates. Anchovies are almost completely prote
 2. In food processor, add soy beans, barely koji, sheets of nori, anchovy, and oil.
 4. Add 10% salt by weight + 1cup water
 5. Put into fermentation container, cover with saran wrap, and press with weights.
-6. Let ferment for many months. Not sure how long yet
+6. Let ferment for many months. Not sure how long yet!
 
 </div>
 
