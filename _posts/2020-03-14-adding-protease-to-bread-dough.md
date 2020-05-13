@@ -39,20 +39,20 @@ But can we see these changes at a macro level? We prepared a dough (see recipe b
 
 
 ![results](/assets/images/enzyme_bread/protease_bread_header.jpg){:height="600" .center}
-*Left: no koji added. Right: koji added before proofing.*
+*Left: no koji added. Right: koji added before bulk-ferment.*
 
 
 There's a very clear difference. Immediately upon pulling the koji-loaf, one could smell a *cheesy-like* crust (think: those chedder cheese buns you can buy at grocery stores), and even taste cheesy notes later. The crumb was moister as well, likely because of the released water previously trapped by starch molecules.
 
 ![results_crumb](/assets/images/enzyme_bread/CrumbEnzymes.jpg){:height="500" .center}
-*Left: no koji added. Right: koji added before proofing.*
+*Left: no koji added. Right: koji added before bulk-ferment.*
 
 -----
 
 ### Recipe for koji addition to dough
 
 
-The recipe is adapted from the book *Flour, Water, Yeast, Salt*. It makes 2 large loaves. The total time, including proofing, is about 1 day. The poolish (a pre-ferment) is created first, and used in the final dough
+The recipe is adapted from the book *Flour, Water, Yeast, Salt*. It makes 2 large loaves. The total time, including proofing stages, is about 1 day. The poolish (a pre-ferment) is created first, and used in the final dough
 
 {::options parse_block_html="true" /}
 
