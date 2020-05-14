@@ -1,5 +1,5 @@
 ---
-title: Algae as a plant-based anchovy flavour
+title: Algae as a plant-based anchovy flavour - success!
 image: assets/images/algae/nanno.jpg
 categories:
 - anchovy project
