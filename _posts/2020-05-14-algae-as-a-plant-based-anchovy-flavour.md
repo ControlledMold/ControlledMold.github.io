@@ -27,4 +27,5 @@ For future recipes, I believe adding small amounts of this will go a long way.  
 
 
 ¹ I am growing Nanno because it contains a high amount of protein and EPA. The latter is a fat that is found almost exclusively in fish and algae.
+
 ² My notes and detailed steps for yeast extract are [here](https://www.notion.so/camdp/Experiment-11-yeast-growing-yeast-extract-abb73bd0dc2b4742b6d47fdf12c4e1ff). And my notes for the algae extract are [here](https://www.notion.so/camdp/Experiment-algae-extract-47e441dda876455495538b9456ed6167).
