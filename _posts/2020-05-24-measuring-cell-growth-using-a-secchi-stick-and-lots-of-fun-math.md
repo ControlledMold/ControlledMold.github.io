@@ -1,5 +1,5 @@
 ---
-title: Measuring cell densityg using a Secchi stick (and lots of math)
+title: Measuring cell density using a Secchi stick (and lots of math)
 tags:
 - data-science
 - algae
