@@ -36,7 +36,7 @@ Given I counted 49 cells and my dilution was three 10x, my estimate is 2.45B cel
 - Did the hemocytometer manufacturer have some QA over the volume of the chamber?
 - Did we get lucky/unlucky with cells numbers in the 5 counting squares?
 
-So we should expect high variance in our estimate because of the many sources of noise, and because the noises are layered on top of one another (i.e. a mismeasurement in one step is propagated down).
+So we should expect high variance in our estimate because of the many sources of noise, and because the noises are layered on top of one another (i.e. a measurement error in one step is propagated down).
 
 In the article on DataOrigami.net, I've coded up a _Bayesian_ model to account for all these uncertainties, and thus produce an estimate of cell density _and_ a better measure of uncertainty in that estimate. Returning to my example, if I counted 49 cells after three 10x serial dilutions, by estimate of cell density is 2.25B cells/mL with 95% credible intervals (1.76B  cells/mL, 2.78B  cells/mL).
 
@@ -181,7 +181,7 @@ In the above, I'm saying that my measurement error is probably ±0.1 the actual 
 
 ![prediction from model 2](/assets/images/secchi/model_2.png){: .center}
 
-The predictions are not that different from the first model, but that could be due to the _small_ mismeasurement that I introduced.
+The predictions are not that different from the first model, but that could be due to the _small_ measurement error that I introduced.
 
 
 #### Conclusion
