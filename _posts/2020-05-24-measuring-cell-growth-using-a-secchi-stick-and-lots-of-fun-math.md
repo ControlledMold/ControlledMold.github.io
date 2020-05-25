@@ -38,9 +38,9 @@ Given I counted 49 cells and my dilution was three 10x, my estimate is 2.45B cel
 
 So we should expect high variance in our estimate because of the many sources of noise, and because the noises are layered on top of one another (i.e. a measurement error in one step is propagated down).
 
-In the article on DataOrigami.net, I've coded up a _Bayesian_ model to account for all these uncertainties, and thus produce an estimate of cell density _and_ a better measure of uncertainty in that estimate. Returning to my example, if I counted 49 cells after three 10x serial dilutions, by estimate of cell density is 2.25B cells/mL with 95% credible intervals (1.76B  cells/mL, 2.78B  cells/mL).
+In the article on DataOrigami.net, I've coded up a _Bayesian_ model to account for all these uncertainties, and thus produce an estimate of cell density _and_ a better measure of uncertainty in that estimate. Returning to my example, if I counted 49 cells after three 10x serial dilutions, my estimate of cell density is 2.25B cells/mL with 95% credible intervals (1.76B  cells/mL, 2.78B  cells/mL).
 
-Great, now that I've solved measuring an accurate cell density estimate and its uncertainty with hemocytometers, I can move on and say: I hate hemocytometers. Sigh. They require dilutions which are messy, they require manually counting to hundreds, they require me to keep some state in my head of "have I counted this cell yet?" - they just aren't pleasant to working with. I'd like a faster method, with maybe less accuracy, but still a measure of uncertainty.
+Great, now that I've have an accurate cell density estimate and its uncertainty with hemocytometers, I can move on and say: I hate hemocytometers. Sigh. They require dilutions which are messy, they require manually counting to hundreds, they require me to keep some state in my head of "have I counted this cell yet?" - they just aren't pleasant to working with. I'd like a faster method, with maybe less accuracy, but still a measure of uncertainty.
 
 ### Secchi stick
 
