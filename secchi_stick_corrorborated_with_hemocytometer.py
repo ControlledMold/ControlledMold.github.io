@@ -23,16 +23,19 @@ depth_observed = np.array([1.4, 2.4, 1.7])
 N = cells_counted.shape[0]
 
 with pm.Model() as model:
+
+    depth_observed = pm.Data('depth_observed', depth_observed)
+
     alpha = pm.Normal("alpha", mu=0, sd=10)
 
     # I need a test value here because of under/over flow problems.
     intercept = pm.Normal("intercept", mu=0, sd=10, testval=15)
     tau = pm.Exponential("tau", 0.1)
 
-    actual_depth = pm.Uniform("actual depth", lower=0, upper=10, shape=N)
-    depth = pm.Normal("depth observed", mu=actual_depth, sd=0.1, observed=depth_observed)
+    #actual_depth = pm.Uniform("actual depth", lower=0, upper=10, shape=N)
+    #depth = pm.Normal("depth observed", mu=actual_depth, sd=0.1, observed=depth_observed)
 
-    cells_conc = pm.Lognormal("cells/mL", mu=alpha * actual_depth + intercept, tau=tau, shape=N)
+    cells_conc = pm.Lognormal("cells/mL", mu=alpha * depth_observed + intercept, tau=tau, shape=N)
 
     final_dilution_factor = 1
     # the manufacturer suggests that depth of the chamber is 0.01cm ± 0.0004cm. Let's assume the worst and double the error.
