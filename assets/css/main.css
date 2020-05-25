@@ -4529,9 +4529,10 @@ a + em {
     border-spacing: 0;
     font-size: 13px;
     margin-bottom: 40px;
-    width: 120%;
+    width: 100%;
     table-layout: fixed;
 }
+
 .table-clean thead th {
     background-color: #DCDCDC;
     border: solid 1px #C0C0C0;
@@ -4541,6 +4542,11 @@ a + em {
 .table-clean tbody td {
     border: solid 1px #C0C0C0;
     padding: 10px;
+}
+
+.table-clean-tiny{
+  width: 40%;
+  margin: 40px auto;
 }
 
 .close {

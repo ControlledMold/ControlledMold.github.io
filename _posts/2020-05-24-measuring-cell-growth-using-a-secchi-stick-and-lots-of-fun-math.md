@@ -12,7 +12,7 @@ In liquid-state fermentation, like  yeast, bacteria or algae cultures, one of th
 
 
 ![lifecycle](/assets/images/secchi/hemo.png){:height="350" .center}
-*Cell culture lifecycle - note the logarithmic scale*
+*Figure 1. Cell culture lifecycle - note the logarithmic scale*
 
 
 The traditional way to measure cell density is to use a microscope and a *hemocytometer*. Think of a hemocytometer as a very shallow box with grid lines laid on top. We drop a very small amount of our (possibly diluted) culture into the "box", and then count the cells under the microscope. The grid lines are their to a) tell us what is considered the "box", and b) to reduce the amount counting, we can use the grid lines to create smaller "boxes" and count within those.
@@ -47,7 +47,7 @@ Great, now that I've solved measuring an accurate cell density estimate and its 
 A Secchi stick is a long ruler with a target on one end that is placed in a solution. The Secchi stick is lowered until the target at the end can't be seen anymore, at which point we measure how far down we've lowered the stick. The principle behind this technique is that higher cell concentration causes less visibility in the solution (the technical term for this is _turbidity_). See figure 2 for a Secchi stick in action.
 
 ![lifecycle](/assets/images/secchi/sidebyside.jpg){:  .center}
-*A Secchi stick measuring algae.
+*Figure 2. A Secchi stick measuring algae.
 From https://algaeresearchsupply.com/*
 
 A Secchi stick provides a quick way to measure turbidity, and hence is correlated to cell density, but I'm missing an explicit connection. For example, if my Secchi stick measures 1.5cm, what cell density does that correspond to? The idea of correlating an efficient measurement with a more accurate, but more costly, measurement is common in industry and the sciences. So long as that correlation is valid and robust, we can replace the costly measurement with the efficient one. We call this a _correlation model_. How might we do this?
