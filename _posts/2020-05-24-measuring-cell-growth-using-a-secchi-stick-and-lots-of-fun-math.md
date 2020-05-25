@@ -61,7 +61,7 @@ We first need to collect some data between the two measurements. In the past few
 |2.4                                  | 148                                                   |
 |1.7                                  | 241                                                   |
 
-We could just naive plot this with a line-of-best-fit:
+We could just naively plot this with a line-of-best-fit:
 
 <p> $$\text{cell count} = \alpha \cdot \text{depth} + c $$</p>
 
