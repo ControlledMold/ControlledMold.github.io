@@ -77,7 +77,7 @@ Our correlation model suggests we should start to see negative cell counts! Clea
 
 ![raw data log](/assets/images/secchi/raw_data_lobf_log.png){: .center}
 
-Now, the right-hand-side can be negative and that's totally okay: an negative logarithm is just a value between 0 and 1.
+Now, the right-hand-side can be negative and that's totally okay: a negative logarithm is just a value between 0 and 1.
 
 Up until now, we've been considering modeling the _cell count_, but we are actually interested in the _cell density_.  We could use our model above to predict a cell count, and then plug this into our Bayesian cell density model above. But, I consider this silly. The problem is any uncertainty in our prediction model (and remember we only have _three_ data points) can't be easily added to our cell density model. We should instead model this as one larger model. Going a step further, we really should be modeling the direct relationship between cell density and Secchi depth, without having to think about cell counts.
 
