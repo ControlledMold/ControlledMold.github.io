@@ -7,8 +7,8 @@ email: 'cam.davidson.pilon@gmail.com'
 disqus: controlledmold
 include: ["_pages"]
 permalink: /:title/
-url: https://controlledmold.github.io
-enforce_ssl: controlledmold.github.io
+url: https://controlledmold.com
+enforce_ssl: ccontrolledmold.com
 
 # Plugins
 plugins:
