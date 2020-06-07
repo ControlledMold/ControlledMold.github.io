@@ -34,7 +34,7 @@ If that went by too fast, here are the first and last photos, side-by-side:
 
 In the end, I had five nice "quinoa patties" bound together by the mycellium of _R. oryzae_. The smell was sweet and mushroom-y. The patties were very firm, easy to handle and transport as a single piece.
 
-![end patty](/assets/images/quinoa_burger/endsidebyside.jpg){: .center}
+![end patty](/assets/images/quinoa_burger/sidebyside2.jpg){: .center}
 
 I fried them in a pan with some olive oil, and seasoned them with yeast garum and soy sauce (as Noma recommended in their post). I served them on a bun with burger toppings. The taste: delicious! The mouthfeel: great! The quinoa patty did not crumble at all during cooking or eating. It had a firm texture - not mushy like most veggie burgers. In fact, I thought this was one of the best veggie burgers I've ever had.
 
