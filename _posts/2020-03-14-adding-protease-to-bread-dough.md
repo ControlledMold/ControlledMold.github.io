@@ -2,7 +2,6 @@
 title: Adding koji to bread dough
 image: assets/images/enzyme_bread/protease_bread_header.jpg
 tags:
-- sticky
 - bread
 - enzymes
 - protease
