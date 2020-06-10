@@ -51,14 +51,14 @@ Our modified assay at a high level follows these steps - we'll explain each in d
 6. Every few minutes, I would pick up a vial, shake it, and try to observe any coagulation. Shining a light on the vial helped see any floating particles.
 7. At the first sign of coagulation, I record the time on the stopwatch. My times were: 28:29, 30:18, and 31:50. Average (std. dev): 30.2 (1.4) minutes.
 
-![coagulated milk](/assets/images/protease_assay/coag.jpg){:height="350" .center}
+![coagulated milk](/assets/images/protease_assay/coag.jpg){:max-height="350" .center}
 *Example of coagulated milk (well past its first coagulation detection)*
 
 
 ### Some thoughts and discussion
 An important question to ask is: how do we know the heat (40℃) or the pH (acidic at 5.2) didn't cause the coagulation? That's why I added two control vials. The first vial was to test if heat would have any coagulation effect. The second vial tested the pH. At the end of the experiment, neither showed any coagulation - see figure below.
 
-![control](/assets/images/protease_assay/control.jpg){:height="350" .center}
+![control](/assets/images/protease_assay/control.jpg){:max-height="350" .center}
 *One of the control vials*
 
 What surprised me was how _quickly_ the state of the milk changed. It felt like within a minute, the milk turned from "normal" to "completely coagulated". I don't know why this change occurred so fast - anyone have an idea?

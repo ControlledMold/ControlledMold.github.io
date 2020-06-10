@@ -43,7 +43,7 @@ But can we see these changes at a macro level? We prepared a dough (see recipe b
 
 There's a very clear difference. Immediately upon pulling the koji-loaf, one could smell a *cheesy-like* crust (think: those chedder cheese buns you can buy at grocery stores), and even taste cheesy notes later. The crumb was moister as well, likely because of the released water previously trapped by starch molecules.
 
-![results_crumb](/assets/images/enzyme_bread/CrumbEnzymes.jpg){:height="500" .center}
+![results_crumb](/assets/images/enzyme_bread/CrumbEnzymes.jpg){:max-height="500" .center}
 *Left: no koji added. Right: koji added before bulk-ferment.*
 
 -----

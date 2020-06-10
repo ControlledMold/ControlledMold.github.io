@@ -11,7 +11,7 @@ image: assets/images/secchi/secchi.png
 In liquid-state fermentation, like  yeast, bacteria or algae cultures, one of the most important metrics is cell density, that is, how many cells there are per mL. This metric gives you an idea of where the cultures is in its lifecycle (see figure 1), and is obviously correlated to important outcomes like biomass.
 
 
-![lifecycle](/assets/images/secchi/hemo.png){:height="350" .center}
+![lifecycle](/assets/images/secchi/hemo.png){:max-height="350" .center}
 *Figure 1. Cell culture lifecycle - note the logarithmic scale*
 
 
@@ -189,4 +189,4 @@ The predictions are not that different from the first model, but that could be d
 This is great: I can dip my Secchi stick into my algae and get a good estimate of the cell density, without having to perform a hemocytometer count. However, because different cell species will have different turbidity, I can only use this inference for my Nanno cultures (where the original data came from). I hope now the image below makes sense!
 
 
-![prediction from model 2](/assets/images/secchi/secchi.png){:height="300" .center}
+![prediction from model 2](/assets/images/secchi/secchi.png){:max-height="300" .center}

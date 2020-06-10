@@ -14,7 +14,7 @@ categories:
 
 I recently got my hands on some _Rhizopus Oryzae_ spores from [mycoboutique.com](http://www.mycoboutique.com/en/). Traditionally R. oryzae has been used to make tempeh. I've been making soy tempeh at home, which has been very tasty and better than store-bought tempeh, except for convenience (but whatever, I enjoy growing mold). The folks over at Noma had a different idea with what to do with R. oryzae: use it as a binder for a plant-based burger:
 
-![Noma's burger](/assets/images/quinoa_burger/noma.png){:height="550" .center}
+![Noma's burger](/assets/images/quinoa_burger/noma.png){:max-height="550" .center}
 *From [Noma's Instagram](https://www.instagram.com/p/CApsk-lDiR7/)*
 
 
@@ -38,7 +38,7 @@ In the end, I had five nice "quinoa patties" bound together by the mycellium of 
 
 I fried them in a pan with some olive oil, and seasoned them with yeast garum and soy sauce (as Noma recommended in their post). I served them on a bun with burger toppings. The taste: delicious! The mouthfeel: great! The quinoa patty did not crumble at all during cooking or eating. It had a firm texture - not mushy like most veggie burgers. In fact, I thought this was one of the best veggie burgers I've ever had.
 
-![burger](/assets/images/quinoa_burger/IMG_0802.jpg){:height="500"  .center}
+![burger](/assets/images/quinoa_burger/IMG_0802.jpg){:max-height="500"  .center}
 
 
 ## Recipe

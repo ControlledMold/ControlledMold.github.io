@@ -53,7 +53,7 @@ Umami isn't all that makes anchovies delicious. If it was just umami we wanted, 
 
 DHA and EPA are rare to find outside of fish. To make a plant-based product, we need to find a substitute or a plant-based source for DHA and EPA. For a substitute, a common ⍵-3 fatty acid in plants is alpha-linolenic acid (ALA). In fact, it's found in soybeans. We might expect that the decomposition of ALA could provide a fishy smell, but it's not nearly as strong as what we want [5]. A plant-based source of DHA and EPA is actually in algae (where do you think fish get their EPA and DHA from). For example, the species Nannochloropsis is high in EPA.  Hence why I'm starting my algae cultures - to eventually harvest and use in ferments!
 
-![Nannochloropsis](/assets/images/anchovies/nanno.jpg){:height="480" .center}
+![Nannochloropsis](/assets/images/anchovies/nanno.jpg){:max-height="480" .center}
 *My growing Nannochloropsis - isn't that green just lovely!
 Cultures from [Algae Research and Supply](https://algaeresearchsupply.com/).*
 
