@@ -11,7 +11,7 @@ image: assets/images/secchi/secchi.png
 In liquid-state fermentation, like  yeast, bacteria or algae cultures, one of the most important metrics is cell density, that is, how many cells there are per mL. This metric gives you an idea of where the cultures is in its lifecycle (see figure 1), and is obviously correlated to important outcomes like biomass.
 
 
-![lifecycle](/assets/images/secchi/hemo.png){:max-height="350" .center}
+![lifecycle](/assets/images/secchi/hemo.png){:.responsive .center}
 *Figure 1. Cell culture lifecycle - note the logarithmic scale*
 
 
