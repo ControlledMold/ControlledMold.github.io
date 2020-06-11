@@ -17,7 +17,7 @@ A long term goal of mine is to create a plant-based canned anchovy substitute. M
 
 <div class="callout">
 
-💡 Oh, one thing: I'm just looking to replicate the taste, not the texture. Most applications of anchovies are as a flavour-booster, and not to add texture. So this project is really trying to replicate an anchovy paste, but everything still applies.
+<span class="callout-emoji">💡</span> Oh, one thing: I'm just looking to replicate the taste, not the texture. Most applications of anchovies are as a flavour-booster, and not to add texture. So this project is really trying to replicate an anchovy paste, but everything still applies.
 
 </div>
 

@@ -4496,6 +4496,10 @@ iframe.center {
   max-width: 950px
 }
 
+.callout-emoji {
+  font-size: 130%;
+}
+
 img.center {
     display: block;
     margin: 10px auto;
