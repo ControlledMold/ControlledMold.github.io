@@ -71,7 +71,7 @@ Here's what you'll need beforehand:
 ![half_way1](/assets/images/growing_koji/half_way.jpg){:height="400" .center}
 
 
-![half_way2](/assets/images/growing_koji/koji_header.jpg){:height="400" .center}
+![half_way2](/assets/images/growing_koji/koji_header.jpg){: .center .responsive}
 
 13\. If there is not much growth, check the dampness of the towel. If should still feel almost *too* wet. If it's dry, or nearly dry, give it lots of sprays of water and go back to step 10.
 
@@ -86,7 +86,7 @@ Here's what you'll need beforehand:
 ![finished_koji1](/assets/images/growing_koji/finished_koji1.jpg){:height="400" .center}
 
 
-![finished_koji2](/assets/images/growing_koji/finished_koji2.jpg){:height="400" .center}
+![finished_koji2](/assets/images/growing_koji/finished_koji2.jpg){: .center .responsive}
 
 17\. To halt the koji growth, cover with a lid and place in refrigerator.
 
