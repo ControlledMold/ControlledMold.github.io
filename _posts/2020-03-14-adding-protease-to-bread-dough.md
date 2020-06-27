@@ -8,6 +8,7 @@ tags:
 - amylase
 - koji
 - featured
+- sticky
 categories:
 - bread
 ---
