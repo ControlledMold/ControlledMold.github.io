@@ -4,6 +4,7 @@ tags:
 - data-science
 - algae
 - featured
+- sticky
 categories:
 - data-science
 image: assets/images/secchi/secchi.png

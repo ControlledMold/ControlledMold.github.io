@@ -7,7 +7,6 @@ tags:
 - recipe
 - solid-state-fermentation
 - tempeh
-- sticky
 categories:
 - tempeh
 ---
