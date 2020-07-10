@@ -146,7 +146,7 @@ with pm.Model() as model:
 After running it, we can inspect our quantities of interest: `alpha` and `intercept` (the latter is what we call c above):
 
 ```
-pm.plot_posterior(trace, var_names=['alpha', "intercept"])
+pm.plot_posterior(trace, var_names=["alpha", "intercept"])
 ```
 
 ![inference from model 1](/assets/images/secchi/inference1.png){: .center}
@@ -190,4 +190,4 @@ The predictions are not that different from the first model, but that could be d
 This is great: I can dip my Secchi stick into my algae and get a good estimate of the cell density, without having to perform a hemocytometer count. However, because different cell species will have different turbidity, I can only use this inference for my Nanno cultures (where the original data came from). I hope now the image below makes sense!
 
 
-![prediction from model 2](/assets/images/secchi/secchi.png){:max-height="300" .center}
+![prediction from model 2](/assets/images/secchi/secchi.png){:max-height="250" .center}

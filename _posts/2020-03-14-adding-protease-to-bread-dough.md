@@ -9,6 +9,7 @@ tags:
 - koji
 - featured
 - sticky
+- recipe
 categories:
 - bread
 ---

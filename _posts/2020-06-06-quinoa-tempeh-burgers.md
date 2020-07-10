@@ -63,7 +63,7 @@ I fried them in a pan with some olive oil, and seasoned them with yeast garum an
 4. Add half the starter, combine; add other half, combine.
 5. Portion into patty shaped containers. This amount was perfect for 5 old olive containers.
 6. Ferment, uncovered but in a container, at 30℃ and moderate humidity (I keep a damp towel in the incubator). The temperature will spike after about 18h, so you'll want to try to keep an eye on it. It's likely the internal temp will reach close to 40℃ - that's okay, simply leave the incubator door open. 
-7. The ferment will finish around 20h to 26h, depending on the temperature.
+7. The ferment will finish around 25h to 35h, depending on the temperature.
 8. Cover and store in fridge to stop fermentation.
 
 #### Burgers

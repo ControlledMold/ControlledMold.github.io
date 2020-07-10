@@ -6,6 +6,7 @@ tags:
 - algae
 - yeast
 - aspergillus-oryzae
+- recipe
 categories:
 - koji
 ---
