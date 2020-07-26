@@ -87,7 +87,7 @@ We also have the problem of carbohydrates. Anchovies are almost completely prote
 <div class="recipe-ingredients">
 
 - 200g dried soy beans, soaked overnight and rinsed
-- 150g barely koji
+- 150g barley koji
 - 2 sheets of nori seaweed, ripped up
 - 1/2 anchovy fillet from a non-pasteurized can
 - 1tsp DHA oil (later will be lysed algae)
@@ -96,7 +96,7 @@ We also have the problem of carbohydrates. Anchovies are almost completely prote
 </div>
 
 1. Autoclave soybeans for 15-20 minutes (add whatever minimal amount of water is needed). Let cool to nearly room temp.
-2. In food processor, add soy beans, barely koji, sheets of nori, anchovy, and oil.
+2. In food processor, add soy beans, barley koji, sheets of nori, anchovy, and oil.
 4. Add 10% salt by weight + 1cup water
 5. Put into fermentation container, cover with saran wrap, and press with weights.
 6. Let ferment for many months. Not sure how long yet!
