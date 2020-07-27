@@ -29,7 +29,7 @@ From a food safety point-of-view, the salting stage will halt the growth of most
 
 ## Composition of anchovies determines flavour
 
-### Protiens, protease and umami
+### Proteins, protease and umami
 
 During the salting stage, there is proteolytic (protein cutting) action happening. Initially, while the bacterial populations are low, the proteases _from the fish flesh_ work on itself (an act called _autolysis_). However, researchers have shown that these proteases have reduced activity and stability when high amounts of salt are added [2]. Really, the majority of proteolytic activity is from the bacteria during the later months of storage. And in fact, the longer the storage, the more proteolytic activity, and the _sharper_ the flavour and loss of firmness. In the video below, Cook's Illustrated taste tests differently aged anchovies:
 
