@@ -110,7 +110,7 @@ This type of fermenter is commonly referred to as a "Tomuzetto" - I have no idea
 **Ventilation method**: interior<br/>
 **Koji bed depth:** 15 - 60cm
 
-[![Picture: 6](/assets/images/industrial_koji/06 - Rotary disc type.png){:.responsive .center}](/assets/images/industrial_koji/06 - Rotary disc type.png))
+[![Picture: 6](/assets/images/industrial_koji/06 - Rotary disc type.png){:.responsive .center}](/assets/images/industrial_koji/06 - Rotary disc type.png)
 *Rotary disc type process diagram*
 
 ![Picture: 6A](/assets/images/industrial_koji/06A - Disc interior.jpg){:.responsive .center}
