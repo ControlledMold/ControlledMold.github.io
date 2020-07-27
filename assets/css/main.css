@@ -4512,9 +4512,12 @@ img.center_extrawide {
 }
 
 img.responsive {
-  max-height: 500px;
-  height:auto;
+  max-height: 450px;
   width:auto;
+}
+
+img.max_height {
+  max-height: 320px;
 }
 
 img + em {
