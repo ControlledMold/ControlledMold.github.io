@@ -12,7 +12,7 @@ tags:
 - scale-up
 ---
 
-This post will provide a list of commercial and industrial koji fermentation equipment. It is by no means complete - I will updated the list as I discover new equipment. A glossary of Japanese terms is available at the end.
+This post will provide a list of commercial and industrial koji fermentation equipment. It is by no means complete - I will update the list as I discover new equipment. A glossary of Japanese terms is available at the end.
 
 ### Traditional methods
 
@@ -26,7 +26,7 @@ In traditional koji making methods, cedar vessels are lined with cloth, filled w
 ![Picture: 01A](/assets/images/industrial_koji/01A Hako.jpg){:.responsive .center}
 *Box method in a koji room - from www.nada-ken.com*
 
-It’s easy to see why these methods won’t scale: labour is expensive. These trays, boxes, and floors have to be loaded and emptied by hand. The koji itself, with no advanced process control, will heat up in the middle of the fermentation process and require mixing by hand to cool.
+It’s easy to see why these methods won’t scale: labour is expensive. These trays, boxes, and beds have to be loaded and emptied by hand. The koji itself, with no advanced process control, will heat up in the middle of the fermentation process and require mixing by hand to cool.
 
 ### Modern equipment
 
@@ -116,7 +116,7 @@ This type of fermenter is commonly referred to as a "Tomuzetto" - I have no idea
 ![Picture: 6A](/assets/images/industrial_koji/06A - Disc interior.jpg){:.responsive .center}
 *Koji loading (left) with auger and mixing (right) - from www.hakutsuru.co.jp*
 
-In rotary disc type fermenters, the koji sits in a large, circular mesh disc that rotates along its vertical axis. An auger runs horizontally through the radius of the disc and facilitates loading and distribution of the koji into an even layer. A mixer also runs horizontally through the radius and breaks up the bed of koji as the disc rotates (at about  ~0.3-0.5rpm). Note that rotary disc type fermenters always have their own air handling unit.
+In rotary disc type fermenters, the koji sits on a large, circular mesh disc that rotates along its vertical axis. An auger runs horizontally through the radius of the disc and facilitates loading and distribution of the koji into an even layer. A mixer also runs horizontally through the radius and breaks up the bed of koji as the disc rotates (at about  ~0.3-0.5rpm). Note that rotary disc type fermenters always have their own air handling unit.
 
 This fermenter scales incredibly well and dominates large scale facilities, such as those used by Marukome or Kikkoman.
 
@@ -143,7 +143,7 @@ I also recommend Miso Production by William Shurtleff & Akiko Aoyagi. If you hav
 
 #### Glossary of Japanese terms
 
-English literature on koji fermenters is sparse, at best. For those of you looking to conduct your own research, here is a list of glossary of Japanese terms.
+English literature on koji fermenters is sparse, at best. For those of you looking to conduct your own research, here is a glossary of relevant Japanese terms.
 
 {:.table-clean}
 | English                                 | Japanese         | Romaji / Pronounciation     |
@@ -182,4 +182,4 @@ English literature on koji fermenters is sparse, at best. For those of you looki
 
 1. Chisti, Yusuf. (2014). Fermentation (Industrial): Basic Considerations. 10.1016/B978-0-12-384730-0.00106-3.
 
-2. Yoshiya Fujiwara , Progress of Koji Making Equipment , Journal of The Brewing Society of Japan , 1993 , Volume 88 , No. 4 , p. 281-286 , Published 2011/09/20 , Online ISSN 2186-4012 , Print ISSN 0914-7314 , https: //doi.org/10.6013/jbrewsocjapan1988.88.281
+2. Yoshiya Fujiwara, Progress of Koji Making Equipment, Journal of The Brewing Society of Japan, 1993, Volume 88, No. 4, p. 281-286, Published 2011/09/20, Online ISSN 2186-4012, Print ISSN 0914-7314, https: //doi.org/10.6013/jbrewsocjapan1988.88.281
