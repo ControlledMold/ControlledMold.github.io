@@ -13,7 +13,7 @@ tags:
 
 As part of the [plant-based anchovy project](https://controlledmold.com/categories.html#anchovy%20project), my work partner, Stephanie, and I have been experimenting with seaweed to match the flavours of canned anchovies. Different seaweed species have vastly different flavours: some fishy, umami, and salty, others are vegetative, grassy and bitter. For our experiments, we have been experimenting with wakame, kombu and kelp. For each, we prepared a "seaweed broth" and compared to a control, an "anchovy broth". While some broths matched the fishy and salty flavour, all were still too grassy to come close to anchovies. Furthermore, the anchovy broth had a fatty, buttery flavour to it. When we added a fat, either olive oil or algae oil, to the seaweed broths and shook to emulsify, we came much closer the anchovy flavour, but it was still off. Something, like a stale, funky flavour, was missing.
 
-We figured that during the salt curing process that anchovies go through (on the order of months to years long), most of the natural anchovy lipids would be oxidised into unique flavourful compounds. The fatty flavour and mouthfeel in the final product was most likely from their preservation in olive oil.  In fact, the uniqueness of anchovies that separates it from fresh fish probably comes from this curing process. This was more obvious after preparing a broth made from _dried_ anchovies, which had a strong fishy flavour, but lacked that stale, funky flavour.
+We figured that during the salt curing process that anchovies go through (on the order of months to years long), most of the natural anchovy lipids would be oxidized into unique flavourful compounds. The fatty flavour and mouthfeel in the final product was most likely from their preservation in olive oil.  In fact, the uniqueness of anchovies that separates it from fresh fish probably comes from this curing process. This was more obvious after preparing a broth made from _dried_ anchovies, which had a strong fishy flavour, but lacked that stale, funky flavour.
 
 With this in mind, our goal was to replicate this salt curing process with plant-based ingredients. We did a rough proximal analysis of anchovies compared to our seaweed on hand, and determined that we needed to add i) slightly more protein, ii) more DHA (a fatty acid). For the former, we supplemented with _textured vegetable protein_ (TVP). For the latter, we used algae oil, labeled as high in DHA. We also wanted a source of enzymes, naturally present in the fish, but mostly absent from our formulation. We decided that a moderate addition of ground koji rice would provide enough enzymes.
 
@@ -26,7 +26,7 @@ The *Control* duration was to be immediately stored in the fridge, and undergo n
 
 
 
-![batches of cured seaweed](/assets/images/fermenting_seaweed/sidebyside.jpg){:.center height="400"}
+![batches of cured seaweed](/assets/images/fermenting_seaweed/sidebyside.jpg){:.center :max-height="400"}
 _Working in batches, and running out of algae oil in the end, we prepared 22 vials of cured seaweed by packing the mixture between salt._
 
 
