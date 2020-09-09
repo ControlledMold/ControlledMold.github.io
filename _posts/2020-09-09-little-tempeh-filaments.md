@@ -1,5 +1,5 @@
 ---
-title: little mold filaments everywhere
+title: little mold hyphae everywhere
 image: assets/images/submerged_tempeh/submerged_rhizopus.png
 tags:
 - submerged-fermentation
