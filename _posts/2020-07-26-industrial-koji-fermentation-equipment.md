@@ -10,6 +10,8 @@ tags:
 - aspergillus-oryzae
 - incubator
 - scale-up
+- featured
+- sticky
 ---
 
 This post will provide a list of commercial and industrial koji fermentation equipment. It is by no means complete - I will update the list as I discover new equipment. A glossary of Japanese terms is available at the end.

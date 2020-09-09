@@ -7,8 +7,6 @@ tags:
 - protease
 - amylase
 - koji
-- featured
-- sticky
 - recipe
 categories:
 - bread
