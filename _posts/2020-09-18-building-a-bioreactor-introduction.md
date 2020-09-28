@@ -15,6 +15,16 @@ Let's jump right into *what even is a bioreactor*. My friend Luiggi said it best
 
 ![our final product](/assets/images/bioreactor_project/introduction/whole.jpeg){:height="500" .center}
 *May look complicated now, but we'll go through each piece over this series*
+
+
+We'll be able to track real-time growth of our cultures too:
+
+![real time inference 1](/assets/images/bioreactor_project/introduction/rt1.png){:height="500" .center}
+![real time inference 2](/assets/images/bioreactor_project/introduction/rt2.png){:height="500" .center}
+*Later blog posts will explain the electronics and math behind this*
+
+
+
 ### Wait - why do I want to build a bioreactor?
 
 While there a many uses of a bioreactor, our goal is going to be a technique called *lab directed evolution*, which is the microbial equivalent of *artificial selection*. Artificial selection has been applied to organisms around us for thousands of years. We have selectively bred plants like corn into the enormous monsters they are today (see image below). Likewise for livestock and dogs. Interestingly, we have also artificially selected some microbes too: *Saccharomyces cerevisiae*, aka brewers and bakers yeast, is very specialized today due to human intervention. Likewise, *Aspergillus oryzae's,* aka koji, use to be toxic to humans, but we've selected the toxicity out. 
