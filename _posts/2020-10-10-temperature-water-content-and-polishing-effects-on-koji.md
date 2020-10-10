@@ -10,6 +10,8 @@ tags:
 - rice
 - featured
 - water-content
+- polishing
+- temperature
 ---
 
 I always wondered if researchers had played around with koji growing parameters - turns out they have. This post will be the first of a few going over these studies - starting with temperature, water content, and polishing rate.
