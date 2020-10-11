@@ -52,10 +52,10 @@ As an aside, this was the experimental set-up:
 Another parameter they tested is the **steamed rice water absorption rate**, which is defined as follows:
 
 $$
-\text{Steamed rice water absorption rate (%)} = \frac{\text{Steamed rice weight} - \text{Uncooked rice weight}}{\text{Uncooked rice weight} }   \times 100\%
+\text{Steamed rice water absorption rate (%)} = \frac{\text{Steamed rice weight} - \text{Dry rice weight}}{\text{Dry rice weight} }   \times 100\%
 $$
 
-Note that this is NOT the same as total water content, since the dry white rice also contains a small amount of water (around 15% by weight). When varying the steamed rice water absorption rate from 24 - 51%, this is what they found:
+Note that this is NOT the same as total water content, since the dry white rice also contains a small amount of water (around 15% by weight). The term "dry rice weight" here is a bit of a misnomer - it's the weight of uncooked, unsoaked rice. When varying the steamed rice water absorption rate from 24 - 51%, this is what they found:
 
 ![Table 2](/assets/images/temp_effect/Table 2.png)
 *Effect of water absorption rate on enzyme activity*
