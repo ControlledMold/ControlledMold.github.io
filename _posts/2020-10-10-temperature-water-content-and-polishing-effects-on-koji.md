@@ -14,7 +14,7 @@ tags:
 - temperature
 ---
 
-I always wondered if researchers had played around with koji growing parameters - turns out they have. This post will be the first of a few going over these studies - starting with temperature, water content, and polishing rate.
+I always wondered if researchers had played around with koji growing parameters - turns out they have, and with a great level of detail in numerous studies. This post will be the first of a few going over these studies - starting with temperature, water content, and polishing rate.
 
 ### Overview
 
@@ -31,7 +31,7 @@ One of the most obvious parameters that researchers tested was the **cultivation
 
 Of course, the researchers know that growing koji for a fixed time at different temperatures would not be a fair comparison. At different temperatures, the koji's growth rate (μ, measured in h<sup>-1</sup>) is also different. Thus, enzyme activity was compared at two points different points:
 
-1. When the koji reaches 10mL oxygen/g dry weight of koji, and;
+1. When the koji consumes 10mL oxygen per gram of koji (dry weight basis), and;
 2. When the koji reaches a maximum cell mass
 
 *Conclusion:* in general, higher temperatures favour amylases, and lower temperatures favour proteases and peptidases.
@@ -43,17 +43,19 @@ As an aside, this was the experimental set-up:
 ![Figure 1](/assets/images/temp_effect/Figure 1.png){:.responsive .center}
 *The experimental setup - see Ref. 2*
 
-*Callout:* This setup is a sort of respirometer - I'm not sure of the exact name. Oxygen is produced by electrolysis, which builds up pressure in the system, pushing one side of the mercury manometer down. With enough pressure, the mercury level switch opens, stopping the generation of oxygen. The koji continues consuming oxygen, and one can measure total oxygen consumption by integrating the total current consumed over time. Finally, waste carbon dioxide is absorbed by the NaOH solution.
+<div class="callout">
+💡 This setup is a sort of respirometer - I'm not sure of the exact name. Oxygen is produced by electrolysis, which builds up pressure in the system, pushing one side of the mercury manometer down. With enough pressure, the mercury level switch opens, stopping the generation of oxygen. The koji continues consuming oxygen, and one can measure total oxygen consumption by integrating the total current consumed over time. Finally, waste carbon dioxide is absorbed by the NaOH solution.
+</div>
 
 ### Water content
 
 Another parameter they tested is the **steamed rice water absorption rate**, which is defined as follows:
 
 $$
-\text{Steamed rice water absorption rate (%)} = \frac{\text{Steamed rice weight} - \text{White rice weight}}{\text{White rice weight} }   \times 100\%
+\text{Steamed rice water absorption rate (%)} = \frac{\text{Steamed rice weight} - \text{Dry rice weight}}{\text{Dry rice weight} }   \times 100\%
 $$
 
-Note that this is NOT the same as total water content, since the dry white rice also contains a small amount of water (around 15% by weight). When varying the steamed rice water absorption rate from 24 - 51%, this is what they found:
+Note that this is NOT the same as total water content, since the dry white rice also contains a small amount of water (around 15% by weight). The term "dry rice weight" here is a bit of a misnomer - it's the weight of uncooked, unsoaked rice. When varying the steamed rice water absorption rate from 24 - 51%, this is what they found:
 
 ![Table 2](/assets/images/temp_effect/Table 2.png)
 *Effect of water absorption rate on enzyme activity*
