@@ -31,7 +31,7 @@ One of the most obvious parameters that researchers tested was the **cultivation
 
 Of course, the researchers know that growing koji for a fixed time at different temperatures would not be a fair comparison. At different temperatures, the koji's growth rate (μ, measured in h<sup>-1</sup>) is also different. Thus, enzyme activity was compared at two points different points:
 
-1. When the koji consumes 10mL oxygen per g of koji (dry weight basis), and;
+1. When the koji consumes 10mL oxygen per gram of koji (dry weight basis), and;
 2. When the koji reaches a maximum cell mass
 
 *Conclusion:* in general, higher temperatures favour amylases, and lower temperatures favour proteases and peptidases.
