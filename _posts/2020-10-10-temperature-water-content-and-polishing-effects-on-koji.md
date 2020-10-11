@@ -12,6 +12,8 @@ tags:
 - water-content
 - polishing
 - temperature
+- sticky
+image: assets/images/temp_effect/header.png
 ---
 
 I always wondered if researchers had played around with koji growing parameters - turns out they have. This post will be the first of a few going over these studies - starting with temperature, water content, and polishing rate.
