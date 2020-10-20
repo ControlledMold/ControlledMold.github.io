@@ -1,5 +1,5 @@
 ---
-title: 'Building a bioreactor: Introduction'
+title: 'Building a bioreactor, part 1: Introduction'
 image: assets/images/bioreactor_project/introduction/header.png
 categories:
 - bioreactor-project
