@@ -42,7 +42,7 @@ That looks good in the last few hours, but fails everywhere else. Likewise, if w
 
 ![]({{ 'assets/images/bioreactor_project/growth_rates/3.png' | relative_url }})
 
-Yuck. What's going on? The problem is that our growth *rate* parameter is not constant - so our model should in fact be: 
+Yuck. What's going on? The problem is that our growth rate parameter is not constant, so there is no good single value of $r$.  Our model should in fact be: 
 
 $$\text{OD}_t = \text{OD}_0 \exp{(r_t\cdot t)}$$
 
