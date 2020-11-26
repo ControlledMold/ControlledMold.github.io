@@ -1,6 +1,6 @@
 ---
 title: 'Building a bioreactor, part 3: tracking growth rates in real time'
-image: assets/images/bioreactor_project/growth_rates/6.png
+image: assets/images/bioreactor_project/growth_rates/header.png
 categories:
 - data-science
 - bioreactor-project
@@ -140,6 +140,6 @@ where $f$ is some linear function up until $\theta$, our saturation limit, and s
 
 ### Conclusion
 
-I have a love-hate relationship with Kalman filers. They enable some amazing  inferences, like in our example above, that would otherwise be unreachable. However, they come with lots of parameters that need tuning. This has been a pain for me, as it's not always clear how the model will change with respect to changing a parameter. The book I mentioned above, [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python), has certainly helped with this, though. 
+To be honest, I have a love-hate relationship with Kalman filers. They enable some amazing  inferences, like in our example above, that would otherwise be unreachable. However, they come with lots of parameters that need tuning. This has been a pain for me, as it's not always clear how the model will change with respect to changing a parameter. The book I mentioned above, [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python), has certainly helped with this, though. 
 
 Now that we have a good estimate time-varying growth rate, we monitor how the culture reacts to different environments. By controlling the environment, we can control the growth rate. So by _surpressing_ the growth rate using the environment, we are introducing "headspace" for the microbes to evolve into. We'll explore this next article.
