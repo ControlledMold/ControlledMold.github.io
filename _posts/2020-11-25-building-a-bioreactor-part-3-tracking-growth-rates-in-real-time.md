@@ -11,7 +11,7 @@ tags:
 - data-science
 ---
 
-Part of our bioreactor project depends on the ability to track microbial population sizes. If you read our last blog [article](https://controlledmold.com/building-a-bioreactor-vessel-and-structure/), you'll know that we measure the population size by the amount of light scattering off the cells and hitting a photodiode. Therefore more light hitting the photodiode ⇒ more cells (up to a limit, but we can ignore that for now). However, this relationship is only *proportional*, and unless we calibrate our light readings against known cell densities, we don't know the exact cell density. We'll see that this isn't a big deal later. But just know that we are working with *optical density* only. 
+Part of our bioreactor project depends on the ability to track microbial population sizes. If you read our last blog [article](https://controlledmold.com/building-a-bioreactor-vessel-and-structure/), you'll know that we measure the population size by the amount of light scattering off the cells and hitting a photodiode. Therefore more light hitting the photodiode ⇒ more cells (up to a limit, but we can ignore that for now). However, this relationship is only proportional, and unless we calibrate our light readings against known cell densities, we don't know the exact cell density. We'll see that this isn't a big deal later. But just know that we are working with optical density only. 
 
 If the microbes are happy and healthy, they will be replicating, and our optical density will increase exponentially, that is, 
 
