@@ -108,33 +108,18 @@ I've omitted units for enzyme activity, which are described in the paper, along 
 
 #### The Brewing Society of Japan
 
-I noted in a <u>previous post</u> that studies on koji are lacking in English academia, which makes it difficult to find any detailed knowledge.
+A quick footnote: a lot of the information in this post comes from the [Brewing Society of Japan](https://www.jozo.or.jp/en/about/), which was established in 1906. Their articles are availble on [J-Stage](https://www.jstage.jst.go.jp/browse/jbrewsocjapan/-char/en). There are also a other useful journals like the [Journal of Japanese Society of Food Science and Engineering](https://www.jstage.jst.go.jp/browse/nskkk/-char/ja).
 
-Thankfully, we have the Brewing Society of Japan, which was established in 1906:
+For the Brewing Society of Japan, they also have a [Bookstore](https://www.jozo.or.jp/booksales/), and the books help distill all the information from the Journal. Notable titles are Koji Studies「麹学」and Molecular Koji-kin Studies 「分子麹菌学」
 
-https://www.jozo.or.jp/en/about/
-
-They have been publishing a journal, non-stop, since 1906. They issue one volume per year, each with 12 issues, totalling about 800 pages of each. Every article over 3 years old is available, for free, on their J-STAGE:
-
-https://www.jstage.jst.go.jp/browse/jbrewsocjapan/-char/en
-
-Topics cover *everything* about brewing: sake, mirin, beer, shochu, whiskey, brandy, vodka, soy sauce, vinegar, yeast, koji, lactobacillus, genetics, crops, soybeans, consumer preferences, health effects... but all in Japanese with very few translated articles.
-
-The best articles are distilled into a series of textbooks, which are sold here:
-
-https://www.jozo.or.jp/booksales/
-
-I bought a copy of "Koji studies" 「麹学」which, thankfully - and at the very least - helps summarize and distil out the mountain of papers put out by the Brewing Society.
-
-I'm trying to translate as much as I can, but if you're interested, message me on twitter @Keeifa
+I'm trying to translate as much these as I can, but if you're interested, message me on twitter @Keeifa
 
 #### Additional reading
 
-Rice polishing ratio, explained:
-http://www.nada-ken.com/main/en/index_s/84.html
+Rice polishing ratio, explained by [Nada-ken](http://www.nada-ken.com/main/en/index_s/84.html)
 
 #### References
 
 Murakami Hideya. Koji Studies - 6th edition. Chapter 5 - Koji Enzymes. The Brewing Society of Japan: Tokyo, 1986.
 
-Naoto Okazaki et al. Effects of koji-making conditions on growth and enzyme production. Journal of The Brewing Society of Japan, 1979, Vol. 74, No. 10, p. 683-686, Published on 2011/11/04, Online ISSN 2186-4004, Print ISSN 0369-416X, https://doi.org/10.6013/jbrewsocjapan1915.74.683
+Naoto Okazaki et al. Effects of koji-making conditions on growth and enzyme production. Journal of The Brewing Society of Japan, 74:10 (1979), 683-686, https://doi.org/10.6013/jbrewsocjapan1915.74.683
