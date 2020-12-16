@@ -92,7 +92,7 @@ Of course, some of the heat is removed by other mechanisms, like convection and 
 To keep track of the koji's moisture content, brewers simply weigh the steamed rice or koji, at whatever stage it's at, and calculate its weight ratio:
 
 $$
-Weight\:ratio\:(\%)= \frac{ Substrate\:weight - Dry\:rice\:weight}{Dry\:rice\:weight} \times 100\%
+\text{Weight ratio (%)}= \frac{ \text{Substrate weight} -  \text{Dry rice weight}}{\text{Dry rice weight}} \times 100\%
 $$
 
 Note that this is not exactly the same as total water content, since white rice already contains 10-15% moisture, and the koji's metabolic processes also produce water. In reference to soaked and steamed substrate, it is also referred to as the water absorption rate or ratio.
