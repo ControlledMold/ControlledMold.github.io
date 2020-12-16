@@ -21,9 +21,17 @@ I had grown some kveik yeast for another, canceled project, so I decanted and pa
 
 I tried to flocculate them, but wasn't able to for some reason². So I instead took a "boil-the-ocean" approach and literally boiled the water away until I had a salty slurry (similar to my outcome [here](https://controlledmold.com/algae-as-a-plant-based-anchovy-flavour/)), about ~100mL. I added them to a bowl, along with ~200g of fresh barley koji and some salt (the algae media had lots of salt in it, so I didn't know how much additional salt to add. I added it "to taste"). Transferred it to a jar, and used the snap-lid plus some plastic lids to add pressure onto the miso. The initial taste was nice: an umami-rich, salty, fish/seaweed flavour. I'll update this post as I taste it over the next few weeks & months.
 
-
-![day 0 of product](/assets/images/microbe_miso/endsidebyside.jpg){: .center}
+![day 0 of product](/assets/images/microbe_miso/IMG_0331.jpeg){: .center}
 *Day 0 of yeast + algae miso*
+### 6 months later
+I didn't touch this miso much over the next 6 months. After opening it, it had a very unique taste: earthy, very sweet, and rich. It tasted like algae, but in a far and distinct way - hard to put my finger on it. Overall, a really tasty miso! 
+
+
+![day 180 of product](/assets/images/microbe_miso/endsidebyside.jpg){: .center}
+*Day 180 of yeast + algae miso*
+
+
+
 
 ¹ There wasn't a good reason to hydrolyze. I just did it for fun.
 
