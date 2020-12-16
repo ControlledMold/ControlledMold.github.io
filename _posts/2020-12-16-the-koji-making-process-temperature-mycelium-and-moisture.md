@@ -75,9 +75,9 @@ Water has several important functions, and interacts with both temperature, grow
 
 Up to a practical limit (i.e. never boil your rice) growth rate is always proportional to water content, and high water content encourages the germination of koji spores.
 
-However, a high water content also inhibits enzyme production. This is because of a mechanism called the **glucose effect** (which is a misnomer, see below). In the presence of abundant glucose, the genes encoding for amylolytic enzymes are switched off. This is a smart adaptation by the microorganism: if there's already a lot of glucose, why make more enzymes?
+However, a high water content also inhibits enzyme production. The reason for this is two-fold. Firstly, there is a mechanism called the **glucose effect** (which is a misnomer, see below). In the presence of abundant glucose, the genes encoding for amylolytic enzymes are switched off. This is a smart adaptation by the microorganism: if there's already a lot of glucose, why make more enzymes? Secondly, higher levels of moisture increase the activity of enzymes. This is a common effect across all enzymes.
 
-In the presence of plenty of water, the koji's enzymes end up liberating too much glucose from the starchy substrate, and the glucose is also easily transported back to the koji mycelium.
+So, in the presence of plenty of water, enzyme activity increases, and the koji's enzymes end up liberating lots of glucose from the starchy substrate. The glucose is transported back to the koji mycelium, and this triggers the inhibition effect. 
 
 <div class="callout">
 
@@ -90,11 +90,12 @@ Finally, recall that rice koji can generate up to **7kcal/kg/hr** during the pea
 Of course, some of the heat is removed by other mechanisms, like convection and conduction, but it can be shown that the majority of heat removal comes from evaporative cooling. It can also be demonstrated that evaporative cooling is the limiting factor when it comes to air supply for koji growth - more so than oxygen requirements or carbon dioxide removal. More on this in another post.
 
 To keep track of the koji's moisture content, brewers simply weigh the steamed rice or koji, at whatever stage it's at, and calculate its weight ratio:
+
 $$
 Weight\:ratio\:(\%)= \frac{ Substrate\:weight - Dry\:rice\:weight}{Dry\:rice\:weight} \times 100\%
 $$
 
-Note that this is not exactly the same as total water content, since white rice already contains 10-15% moisture, and the koji's metabolic processes also produce water. In reference to soaked and steamed substrate, it is also refereed to as the water absorption rate or ratio.
+Note that this is not exactly the same as total water content, since white rice already contains 10-15% moisture, and the koji's metabolic processes also produce water. In reference to soaked and steamed substrate, it is also referred to as the water absorption rate or ratio.
 
 The weight ratio is usually measured at these key steps. The values for sake-koji on short-grain rice are provided here - for other applications, see the end of this post.
 
@@ -140,7 +141,7 @@ It includes curves for sake, miso, mirin, shoyu, and shochu. Again, shoyu and sh
 Here is general table outlining the temperatures and weight ratios for different applications.
 
 {:.table-clean}
-| Application                  | Substrate - Polishing Ratio                   | After soaking                | After steaming                     | Dekoji  |
+| Application                  | Substrate - Polishing Ratio                   | After soaking                | After steaming                     | Dekoji (cooling)  |
 | ---------------------------- | --------------------------------------------- | ---------------------------- | ---------------------------------- | ------- |
 | Sake                         | Rice - 50-75%                                 | 28-30%                       | 38-40%                             | 17-19%  |
 | Mirin                        | Rice - 83-90%                                 | 28-30%                       | 38-40%                             | 24-28%  |
