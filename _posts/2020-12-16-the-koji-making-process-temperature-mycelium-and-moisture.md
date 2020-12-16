@@ -10,7 +10,7 @@ categories:
 - koji
 ---
 
-Here's a deep dive into all the fine details of the koji making process. Sources, reference material, and a glossary of Japanese terms are available at the end of this post.
+Koji generates a considerable amount of heat as it grows - if you've ever made koji at home, it's almost unsettling to feel the warmth of a koji cake. Controlling that heat, along with water content, mixing, and ventilation, is crucial to produce a quality product. In this article, we'll dive into how temperature and other factors are both controlled and exploited in the koji-making process.
 
 ### The Temperature Curve
 
@@ -34,7 +34,7 @@ The entire process can roughly be broken down into three periods:
 
 1. For the first 18-22h, the rice is wrapped up and piled into a mound after inoculation *(toko-momi)*. This is done to keep the pile of rice warm and to retain as much moisture as possible. The koji spores germinate within 6-8 hours, then the pile of koji begins to warm up rapidly as the koji generates its own heat. In the middle of this period at the 10-12h mark, the koji is usually mixed once *(kiri-kaeshi)* to redistribute moisture between the inside and outside of the pile.
 2. A step called *mori* is performed after the initial 18-22h. The pile of rice is distributed into trays, boxes, or spread thinly on another table - depending on the koji-making method. The koji begins to generate a lot of heat at this point, so spreading it out helps dissipate heat and provide air. Two more mixing steps are usually performed at this stage *(naka-shigoto* and *shimai-shigoto)*.
-3. In the final phase of growth, the koji is well-established and enzyme production is the most active. At this stage, the temperature must be maintained according to the type of enzymes needed. Once complete, the act of removing the koji from the room and cooling it down is called *dekoji*
+3. In the final phase of growth, the koji is well-established and enzyme production is the most active. At this stage, the temperature must be maintained according to the type of enzymes needed. Once complete, the act of removing the koji from the room is called *dekoji* and it is subsequently cooled down  
 
 A few caveats here:
 
@@ -50,12 +50,12 @@ And lastly, temperature is just one part of the picture. As the koji progresses,
 
 ### Mycelia and "Haze"
 
-Japanese brewers have a term called *"haze"* (pronounced like *saké*) that describes the state of mycelial growth growing on a grain of koji. The term is further distinguished into two concepts:
+Japanese brewers have a term called *"haze"* (pronounced like *saké*) that describes the state of mycelial growth observed on each grain of koji. The term is further distinguished into two concepts:
 
 1. *Haze-mawari* - how to koji mycelium spreads on a grain's **surface**
 2. *Haze-komi* - how the koji mycelium penetrates into the grain's **interior**
 
-Koji with a high enzyme concentration must have good growth on the surface of the grain, the centre of the grain, and have the proper moisture content. Brewers have different terms to describe the final product koji's visible surface and interior growth:
+Koji with a high enzyme concentration must have good growth on the surface of the grain, within the centre of the grain, and have the proper moisture content. Brewers have different terms to describe the final product koji's visible surface and interior growth:
 
 {:.table-clean}
 | Visual Indicators       | Low interior growth          | Good interior growth                                       |
@@ -141,7 +141,7 @@ It includes curves for sake, miso, mirin, shoyu, and shochu. Again, shoyu and sh
 Here is general table outlining the temperatures and weight ratios for different applications.
 
 {:.table-clean}
-| Application                  | Substrate - Polishing Ratio                   | After soaking                | After steaming                     | Dekoji (cooling)  |
+| Application                  | Substrate - Polishing Ratio                   | After soaking                | After steaming                     | Completion (Dekoji)  |
 | ---------------------------- | --------------------------------------------- | ---------------------------- | ---------------------------------- | ------- |
 | Sake                         | Rice - 50-75%                                 | 28-30%                       | 38-40%                             | 17-19%  |
 | Mirin                        | Rice - 83-90%                                 | 28-30%                       | 38-40%                             | 24-28%  |
@@ -170,7 +170,7 @@ Here is a list of Japanese terms pertaining to the koji-making process. This can
 | Lit.  'peak' - transfer to lid / box / etc.                  | 盛り         | Mori                     |
 | Lit.  'maintenance' - non-specific mixing step               | 手入れ       | Teire                    |
 | Lit.  'middle work' - middle mixing step                     | 仲仕事       | Naka-shigoto             |
-| Lit.  'transhipment' - shuffling lids or boxes in lid / box method | 積替         | Tsumi-kae                |
+| Lit.  'transhipment' - shuffling lids or boxes in lid / box method | 積替え        | Tsumi-kae                |
 | Lit.  'final work' - last mixing step                        | 仕舞仕事     | Shimai-shigoto           |
 | Lit.  'final transhipment'                                   | 最高積替え   | Saikō-tsumi-kae          |
 | Lit.  'final temperature' - highest reached temperature in sake-koji | 最高温度     | Saikō-ondo               |
