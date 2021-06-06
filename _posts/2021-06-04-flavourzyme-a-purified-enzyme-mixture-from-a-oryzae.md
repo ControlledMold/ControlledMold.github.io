@@ -12,7 +12,7 @@ The modern food processing industry uses proteolytic everywhere: from accelerati
 
 Flavourzyme is a specific mixture of proteolytic enzymes extracted from an *Aspergillus oryzae* liquid culture. What sets it apart from other industrial proteolytic enzymes is that it contains a cocktail of both endo- and exo-peptidases that can efficiently convert proteins into something with more umami, making it useful for applications requiring the development of flavour [1].
 
-Why does this matter? If a protein is fully decomposed into its constituent amino acids, it tends to taste nice and savoury - even if specific amino acids have a slightly bitter taste. However, if a protein is only partially decomposed, specific peptides can be extremely bitter: for example, the free amino acids Leucine (Leu) and Phenylalanine (Phe) are slightly bitter (with a tasting threshold of 15-20mM), but their simple dipeptide forms, Leu-Leu and Leu-Phe, are **ten times** more bitter [2]. 
+Why does this matter? If a protein is fully decomposed into its constituent amino acids, it tends to taste savoury in the presence of salt - as long as there are sufficient glutamates relative to other amino acids. However, if a protein is only partially decomposed, specific peptides can be extremely bitter: for example, the free amino acids Leucine (Leu) and Phenylalanine (Phe) are slightly bitter (with a tasting threshold of 15-20mM), but their simple dipeptide forms, Leu-Leu and Leu-Phe, are **ten times** more bitter [2]. 
 
 This is why Flavourzyme works well in food applications requiring umami: it contains endopeptidases, which snip peptide bonds in the **middle** of a peptide chain, as well as exopeptidases, which snip peptide bonds at the **terminal ends** of a peptide chain.
 
@@ -38,13 +38,13 @@ Information here is based off a paper from researchers at the University of Denm
 ![](/assets/images/flavourzyme/Bioreactor.png){:height="450" .center}
 *Process diagram of an aerated bioreactor*
 
-A seed train is propagated from a pure culture of A. oryzae and then added to an aerated, stirred bioreactor and allowed to grow. Once the culture reaches a certain point, the bioreactor is harvested to yield a crude mixture of enzymes, mycelia, and leftover substrate.
+A seed train is propagated from a pure culture of A. oryzae and then added to an aerated, stirred bioreactor and allowed to grow. The substrate is typically a mixture of food industry by-products such as starch, wheat bran, corn steep powder, and minerals. Once the culture reaches a certain point, the bioreactor is harvested to yield a crude mixture of enzymes, mycelia, and leftover substrate.
 
 There's a few quirks to this specific culture method, which applies to some other filamentous fungi fermentations:
 
 #### 1. Use a fed-batch configuration
 
-The bioreactor is primed with substrate and inoculum around 70% full, then additional substrate is slowly dosed in. This is done so that substrate is consumed at basically the same rate that it's fed into the bioreactor, which keeps glucose in the environment very low. As a result, enzyme yields are high and plenty of oxygen is available in the medium (the culture is substrate-limited rather than oxygen limited).
+The bioreactor is primed with substrate and inoculum around 70% full, then additional substrate is slowly dosed in. This is done so that substrate is consumed at basically the same rate that it's fed into the bioreactor, which keeps glucose in the environment low. As a result, enzyme yields are high by avoiding *carbon catabolite repression* (which you can read about [here](https://controlledmold.com/the-koji-making-process-temperature-mycelium-and-moisture/) and plenty of oxygen is available in the medium to prevent anaerobic metabolism.
 
 #### 2. Filamentous fungi make everything viscous 
 
@@ -82,9 +82,39 @@ I won't go into too much detail here, but the final mixture can either be dried 
 
 ### The Final Product
 
-If everything's gone well so far we should have a powerful enzyme mixture rated for 500 LAPU/g (one LAPU is the amount of enzyme which hydrolyzes 1 µmol of L-leucine-pnitroanilide per minute - this is one of many enzyme assays for proteolytic enzymes) and between 6% w/w of pure enzyme protein, depending on formulation [6]. By comparison, unrefined shoyu koji contains around 0.2% w/w protease [7].
+If everything's gone well so far we should have a powerful enzyme mixture rated for 500 LAPU/g (one LAPU is the amount of enzyme which hydrolyzes 1 µmol of L-leucine-pnitroanilide per minute - this is one of many enzyme assays for proteolytic enzymes) and 6% w/w of pure enzyme protein, depending on formulation [6]. By comparison, unrefined shoyu koji contains around 0.2% w/w protease [7].
 
-Novozymes A/S won't sell to non-commercial or non-institutional end-users. So naturally, I'd have to import an imitation product from Alibaba. The other question is, of course, can I brew this at home?
+The specific mixture of enzymes identified by researchers is as follows [1]:
+
+- leucine aminopeptidase A
+- leucine aminopeptidase 2
+- dipeptidyl peptidase 4
+- dipeptidyl peptidase 5
+- neutral protease 1
+- neutral protease 2
+- alkaline protease 1
+- α-amylase A type 3
+
+Interestingly, α-amylase ends up present as a by-product - I suppose it's difficult to get *A. oryzae* not to produce any amylases. 
+
+### Applications 
+ 
+Novozymes A/S won't sell to non-commercial or non-institutional end-users, so I had to import an imitation product from Alibaba. Here's what it looks like:
+
+[flavourzyme_photo]
+*A Flavourzyme-like product from Alibaba*
+
+I plan to use this to make ultra-fast garums - which has been attempted by the guys at Noma, but using [pork pancreatic enzymes](https://www.instagram.com/p/Bsd-8kVhQdz/?hl=en). Also, credit goes to Preston at [Culinary Crush](https://www.culinarycrush.biz/all/i-bought-industrial-protease-enzymes) for inspiring this post. A few more applications I will test:
+
+- Accelerated miso / shoyu
+- High-fat miso (flavourzyme contains no lipases) 
+- Accelerated cured tofu 
+- Home-made Maggi sauce (Red-cap maggi sauce sold in Canada is essentaily wheat gluten + enzymes and additives) 
+- Hydrolyzing plant-based milks 
+
+As a quick side note, Japanese brewers today don't add pure enzyme mixtures to misos or shoyus - at least not for more expensive types. The reason is unclear, but it has been tested in the past [8]. 
+
+The other question is, of course, can I brew this at home?
 
 ### References
 
@@ -98,6 +128,8 @@ Novozymes A/S won't sell to non-commercial or non-institutional end-users. So na
 
 5. *Enzymes in Industry: Production and Applications*, 3rd ed.; Aehle, W., Ed.; Wiley-VCH: Weinheim, 2007.
 
-6. Flavourzyme Product Data Sheet - Novozymes A/S. 
+6. Flavourzyme 500MG Product Data Sheet - Novozymes A/S. Dated 2017-08-24. Accessed 2021-06-06 from: https://www.ibric.org/myboard/view.php?Board=scicafe000352&filename=0003423_1.pdf&id=3423&fidx=1.
 
 7. *Koji Studies*, 6th ed.; Hideya, M.; The Brewing Society of Japan: Tokyo, 1986.
+
+8. Mochizuki, T. About the use of enzymes in miso brewing. *Journal of the Brewing Society of Japan* **1969**, *64* (5), 423–430. https://doi.org/10.6013/jbrewsocjapan1915.64.423.
