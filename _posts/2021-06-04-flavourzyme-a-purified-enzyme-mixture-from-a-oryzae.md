@@ -104,6 +104,10 @@ Novozymes A/S won't sell to non-commercial or non-institutional end-users, so I 
 [flavourzyme_photo]
 *A Flavourzyme-like product from Alibaba*
 
+<div class="callout">
+⚠ Before we continue, a quick note on safety. Being a pure enzyme and protein product, Flavourzyme can irritate the skin, eyes, and mucous membranes. When working with this product, make sure to wear respiratory protection, eye protection, and clean spills with water (without splashing) or by vacuum with a HEPA filter. Read the MSDS!
+</div>
+
 I plan to use this to make ultra-fast garums - which has been attempted by the guys at Noma, but using [pork pancreatic enzymes](https://www.instagram.com/p/Bsd-8kVhQdz/?hl=en). Also, credit goes to Preston at [Culinary Crush](https://www.culinarycrush.biz/all/i-bought-industrial-protease-enzymes) for inspiring this post. A few more applications I will test:
 
 - Accelerated miso / shoyu
