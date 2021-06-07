@@ -35,7 +35,7 @@ In bioprocess engineering, the process of cultivating a culture is called upstre
 
 Information here is based off a paper from researchers at the University of Denmark, working at the Novozymes A/S Fermentation Pilot Plant, who wanted to develop a mathematical model for enzyme production with *A. oryzae* in submerged culture [3]. Even though they scrubbed some critical units and sig-figs from their research (for proprietary reasons), it was still enough to piece together details of the process. The process is similar to any other submerged, septic, aerated culture:
 
-![](/assets/images/flavourzyme/Bioreactor.png){:height="450" .center}
+-![Process diagram of an aerated bioreactor](/assets/images/flavourzyme/Bioreactor.png){:height="450" .center}
 *Process diagram of an aerated bioreactor*
 
 A seed train is propagated from a pure culture of A. oryzae and then added to an aerated, stirred bioreactor and allowed to grow. The substrate is typically a mixture of food industry by-products such as starch, wheat bran, corn steep powder, and minerals. Once the culture reaches a certain point, the bioreactor is harvested to yield a crude mixture of enzymes, mycelia, and leftover substrate.
@@ -101,7 +101,7 @@ Interestingly, α-amylase ends up present as a by-product - I suppose it's diffi
  
 Novozymes A/S won't sell to non-commercial or non-institutional end-users, so I had to import an imitation product from Alibaba. Here's what it looks like:
 
-[flavourzyme_photo]
+-![A Flavourzyme-like product from Alibaba](/assets/images/flavourzyme/flavourzyme_photo.jpg){:height="550" .center}
 *A Flavourzyme-like product from Alibaba*
 
 <div class="callout">
