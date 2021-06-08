@@ -26,15 +26,13 @@ Everything in this post comes from the Brewing Society of Japan, and its academi
 
 ### Temperature
 
-One of the most obvious parameters that researchers tested was the **cultivation temperature**. The growth of A. oryzae on white rice was tested at temperatures between 30°C and 40°C - and this is what they found:
-
-![Table 1](/assets/images/temp_effect/Table 1.png)
-*Effect of culture temperature on enzyme activity ([1] - 10mL O<sub>2</sub> consumed/ g koji and [2] at maximum cell mass)*
-
-Of course, the researchers know that growing koji for a fixed time at different temperatures would not be a fair comparison. At different temperatures, the koji's growth rate (μ, measured in h<sup>-1</sup>) is also different. Thus, enzyme activity was compared at two points different points:
+One of the most obvious parameters that researchers tested was the **cultivation temperature**. The growth of A. oryzae on white rice was tested at temperatures between 30°C and 40°C. Of course, the researchers know that growing koji for a fixed time at different temperatures would not be a fair comparison: at different temperatures, the koji's growth rate (μ, measured in h<sup>-1</sup>) is different, and hence enzyme production is different. Thus, enzyme production was compared at two points different points:
 
 1. When the koji consumes 10mL oxygen per gram of koji (dry weight basis), and;
 2. When the koji reaches a maximum cell mass
+
+![Table 1](/assets/images/temp_effect/Table 1.png)
+*Effect of culture temperature on enzyme production ([1] - 10mL O<sub>2</sub> consumed/ g koji and [2] at maximum cell mass). Units are arbitrary, but higher values imply more activity in the assay.*
 
 *Conclusion:* in general, higher temperatures favour amylases, and lower temperatures favour proteases and peptidases.
 
