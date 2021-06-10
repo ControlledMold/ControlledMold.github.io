@@ -17,9 +17,9 @@ This post will provide a list of commercial and industrial koji fermentation equ
 
 ### Traditional methods
 
-In traditional koji making methods, cedar vessels are lined with cloth, filled with substrate, and allowed to ferment in a controlled environment called a koji room. The three main types are referred to as the "tray", "box", and "bed" methods - the main difference being the size of the cedar vessel. Craft koji producers and traditional / semi-traditional shops still use these methods today.
+In traditional koji making methods, cedar vessels are lined with cloth, filled with substrate, and allowed to ferment in a controlled environment called a koji room. The three main types are referred to as the "tray", "box", and "table" methods - the main difference being the size of the cedar vessel. Craft koji producers and traditional / semi-traditional shops still use these methods today.
 
-**Capacity**: 1 - 5 kg per tray, 7.5 - 45kg per box, 100kg per 4m² bed
+**Capacity**: 1 - 5 kg per tray, 7.5 - 45kg per box, 100kg per 4m² table
 
 ![Picture: 01](/assets/images/industrial_koji/01 Traditional.png){: .center .responsive .max_height}
 *Traditional method process diagram - koji shown in light yellow*
@@ -27,7 +27,9 @@ In traditional koji making methods, cedar vessels are lined with cloth, filled w
 ![Picture: 01A](/assets/images/industrial_koji/01A Hako.jpg){:.responsive .center}
 *Box method in a koji room - from www.nada-ken.com*
 
-It’s easy to see why these methods won’t scale: labour is expensive. These trays, boxes, and beds have to be loaded and emptied by hand. The koji itself, with no advanced process control, will heat up in the middle of the fermentation process and require mixing by hand to cool.
+Regardless of the method, the general process is the same: steamed rice starts on a *table* (or *toko*) where it's cooled down, inoculated with koji spores, then wrapped up in a pile for the first 18 hours or so for incubation (1). After this incubation period, a process called *mori* is performed in which the rice is transferred to either: 2a) trays, 2b) boxes, or 2c) a 'new' table, which is similar to the first except it's equipped with a wire mesh and adjustable slats. 
+
+It’s easy to see why these methods won’t scale: labour is expensive. These trays, boxes, and tables have to be loaded and emptied by hand. The koji itself, with no advanced process control, will heat up in the middle of the fermentation process and require mixing by hand to cool.
 
 ### Modern equipment
 
@@ -41,11 +43,12 @@ Industrial koji equipment is typically classified into one of three ventilation 
 
 Interior ventilation is by far the most common. Although surface and non-ventilated methods are described in literature, it seems that the modern equipment market is dominated by interior ventilation methods.
 
-#### Static flat bed type
+#### Static flat table type
 
 **Capacity**: 100kg - 1500kg <br/>
 **Ventilation method**: interior <br/>
-**Koji bed depth**: 5 - 7cm
+**Koji bed depth**: 5 - 7cm<br/>
+**Application:** Shochu, Shoyu, Miso, Sake
 
 ![Picture: 02](/assets/images/industrial_koji/02 Static Bed.png){:.center .responsive .max_height}
 *Static flat bed type process diagram*
@@ -61,7 +64,8 @@ The static flat bed type is an all-encompassing term of various medium-scale koj
 
 **Capacity**: 1000kg - 3000kg<br/>
 **Ventilation method**: interior (stage 1), surface (stage 2)<br/>
-**Koji bed depth**: 15cm (stage 1) 3 - 6cm (stage 2)
+**Koji bed depth**: 15cm (stage 1) 3 - 6cm (stage 2)<br/>
+**Application:** Sake, especially Ginjo/Daiginjo
 
 ![Picture: 03](/assets/images/industrial_koji/03 Multi-stage conveyor.png){:.center .responsive .max_height}
 *Multi-stage conveyor type process diagram*
@@ -77,7 +81,8 @@ I could only find one equipment manufacturer making this equipment configuration
 
 **Capacity**: 100 - 500kg<br/>
 **Ventilation**: non-ventilated<br/>
-**Koji bed depth**: 3 - 6cm
+**Koji bed depth**: 3 - 6cm<br/>
+**Application:** Sake, especially Ginjo/Daiginjo
 
 ![Picture: 4](/assets/images/industrial_koji/04 Non ventilated.png){:.center .responsive .max_height}
 *Unventilated-type process diagram*
@@ -85,13 +90,14 @@ I could only find one equipment manufacturer making this equipment configuration
 ![Picture: 4A](/assets/images/industrial_koji/04A - Fujiwara VEX.png){:.responsive .center}
 *Unventilated-type closed (left) and with fabric opened (right) - from Fujiwara Techno-Art*
 
-In these unventilated type machines, the koji sits in a thin layer on a mesh. Two large sheets of plastic fabric are stretched above and below the koji bed. These sheets prevent dust and pathogens from getting onto the koji, but they are still permeable to air and moisture. As the koji heats up, a natural draft forms which allows air to flow through the koji bed. Direct removal of the plastic mesh fabric makes this device easy to clean.
+In these unventilated type machines, the koji sits in a thin layer on a plastic sheet. Two large sheets of plastic fabric are stretched above and below the koji bed. These sheets prevent dust and pathogens from getting onto the koji, but they are still permeable to air and moisture. As the koji heats up, a natural draft forms which allows air to flow through the koji bed. Direct removal of the plastic mesh fabric makes this device easy to clean.
 
 #### Drum type
 
 **Capacity**: 500 - 3000kg<br/>
 **Ventilation**: interior<br/>
-**Koji bed depth**: N/A
+**Koji bed depth**: N/A<br/>
+**Application**: Miso
 
 [![Picture: 5](/assets/images/industrial_koji/05 - Drum.png){:.responsive .center}](/assets/images/industrial_koji/05 - Drum.png)
 *Drum-type process diagram*
@@ -101,7 +107,7 @@ In these unventilated type machines, the koji sits in a thin layer on a mesh. Tw
 ![Picture: 5B](/assets/images/industrial_koji/05B - Tomuzetto Interior.jpg){:.responsive .center}
 *Drum-type fermenter exterior (top) and interior (bottom) - from iichimiso.com*
 
-In drum-type fermenters, the koji sits on a mesh mounted approximately halfway between the edge of the drum and its centre axis. This mesh forms the bottom of a pentagonal housing that sits within the drum itself. Within this housing, two static mixers (metal rods with protrusions) extend along the axis of the drum. The drum is normally stationary, and is programmed to turn every so often to facilitate mixing. As it turns, the koji tumbles around and hits these mixers, breaking it up. Drum-type fermenters always have their own air handling unit.
+In drum-type fermenters, the koji sits on a mesh mounted approximately halfway between the edge of the drum and its centre axis. This mesh forms the bottom of a pentagonal housing that sits within the drum itself. Within this housing, two static mixers (metal rods with protrusions) extend along the axis of the drum. The drum is normally stationary, and is programmed to turn every so often to facilitate mixing. As it turns, the koji tumbles around and hits these mixers, breaking it up. Drum-type fermenters always have their own air handling unit. One key advantage of this type of fermenter is that some designs allow you to steam and cool the rice within the drum - saving one additional piece of equipment. Nevertheless, this type seems to have fallen out of favour in recent years.
 
 This type of fermenter is commonly referred to as a "Tomuzetto" - I have no idea where the etymology comes from. My guess is an portmonteau of "tumble" and "set".
 
@@ -109,7 +115,8 @@ This type of fermenter is commonly referred to as a "Tomuzetto" - I have no idea
 
 **Capacity**: 1000 - 50000kg <br/>
 **Ventilation method**: interior<br/>
-**Koji bed depth:** 15 - 60cm
+**Koji bed depth:** 15 - 60cm<br/>
+**Application:** Shochu, Shoyu, Miso, Sake
 
 [![Picture: 6](/assets/images/industrial_koji/06 - Rotary disc type.png){:.responsive .center}](/assets/images/industrial_koji/06 - Rotary disc type.png)
 *Rotary disc type process diagram*
@@ -152,7 +159,7 @@ English literature on koji fermenters is sparse, at best. For those of you looki
 | Koji room                               | 麹室 / 製麹室    | Kōji muro / sei-kiku-shitsu |
 | Tray / lid koji method                  | 蓋麹法           | Futa-kōji-hō                |
 | Box koji method                         | 箱麹法           | Hako-kōji-hō                |
-| Bed / table koji method                 | 床麹法           | Toko-kōji-hō                |
+| Table / bed koji method                 | 床麹法           | Toko-kōji-hō                |
 | Machine koji method                     | 機械製麹法       | Kikai-sei-kiku-hō           |
 | Interior ventilation type               | 内部通風式       | Naibu-tsufu-shiki           |
 | Surface ventilation type                | 表面通風式       | Hyomen-tsufu-shiki          |
@@ -178,6 +185,8 @@ English literature on koji fermenters is sparse, at best. For those of you looki
  <div class="callout">
 💡 Note 2: many original equipment manufacturers (OEMs) will come up with their own branded names for equipment. You may see things like "NFT式", "VEX式", etc, but they will always fall into one of the descriptions described here.
 	</div>
+
+*Updated June 8, 2021 with minor changes*
 
 #### References
 
