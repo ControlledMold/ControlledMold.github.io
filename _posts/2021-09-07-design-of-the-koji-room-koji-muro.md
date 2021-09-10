@@ -10,13 +10,13 @@ This is part 2 of "How koji is produced on industrial scales". (Click here for [
 
 ## Introduction
 
-As much as I enjoy learning about 50-ton capacity, fully automated koji making machines, unfortunately these machines are expensive and fairly out-of-reach for smaller producers looking to enter into what I'd call the 'micro-brewery' scale. 
+As much as I enjoy learning about 50-ton capacity, fully automated koji making machines, these machines are expensive and fairly out-of-reach for smaller producers looking to enter the 'micro-brewery' scale. 
 
 That being said, koji rooms (*koji muro*) are still extremely commonplace. They have a fairly low capital cost, and many of the smaller koji-making machines are based inside of a koji room. 
 
-Although it appears to be a fairly simple and innocuous piece of equipment, there's a lot of interesting engineering concepts that go into a koji room. I couldn't find any English guidance on the design, but the concepts are straightforward HVAC meets biology, with some key Japanese resources which I've cited at the end of this post. 
+Although it appears to be a fairly simple piece of equipment, there's a lot of interesting engineering that goes into a koji room. I couldn't find any English guidance on the topic, but the key concept is essentially HVAC-meets-biology, with numbers and parameters from some key Japanese resources which I've cited at the end of this post. 
 
-In this post I'll delve into the purpose of a koji room, some history, a design example, koji-making machines based within a koji room, and finally some sample photos. 
+I'll be delving into the purpose of a koji room, some history, a design example, koji-making machines based within a koji room, and some of the finer details. 
 
 ## Design Requirements
 
@@ -27,7 +27,7 @@ A properly designed koji room must meet the following design criteria:
 3. Maintain a set temperature and humidity 
 4. Be ventilated to remove heat, water, and carbon dioxide from koji growth
 
-We'll look at each of these in detail, and how they interact with each other. Firstly, a bit of history. 
+We'll take a look at each of these in detail, and how they interact with each other. Firstly, a bit of history. 
 
 ## Traditional Koji Rooms (pre-1950s) 
 
@@ -35,7 +35,7 @@ Breweries prior to the 1950s had virtually zero mechanization, and no modern mat
 
 In basement and half-basement koji rooms, steaming and soaking of the substrate would take place on the ground floor of the brewery and dropped into the koji room below. These rooms were typically lined with plaster, brick, or later concrete, typically in two layers and insulated with a mixture of rice straw and rice husks in-between. 
 
-First- and upper-floor koji rooms would also use rice straw and rice husks as insulation, lined between an interior wooden (often cedar) wall and exterior walls. 
+First- and upper-floor koji rooms would also use rice straw and rice husks as insulation, lined between interior wooden (often cedar) walls and exterior walls. 
 
 ![](/assets/images/koji_room/Traditionalmuro.png){:height="550" .center}
 *Plan view of a typical traditional first floor koji room (koji-muro) from [1]*
