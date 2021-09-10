@@ -211,21 +211,21 @@ Some other equipment worth mentioning, primarily used to reduce labour costs:
 
 A common way to transfer steamed substrate into the koji room, and finished koji out of the room, is to use a device called an *air shooter*. This is a a Japanese *wasei-eigo* term for what would commonly be called a pneumatic conveying system consisting of: 1) a blower 2) a feed assembly consisting of a hopper, rotary valve, and solids-conveying educator, 3) a bunch of hose, and 4) an outlet cyclone (optional). These are much faster than transferring substrate by hand. 
 
-![](/assets/images/koji_room/airshooter.png){:height="550" .center}
+![](/assets/images/koji_room/Airshooter.png){:height="550" .center}
 *Top: a schematic of an air-shooter (pneumatic conveying system), bottom-left: feed assembly, bottom-right: blower. From [1] and Toyo Shokai Co., Ltd.*
 
 #### Mixing (kiri-kaeshi) machine
 
 A quicker way of performing koji mixing is with a mixing (*kiri-kaeshi*) machine. This is nothing then a solids mixer with a mesh screen for breaking up clumps. 
 
-![](/assets/images/koji_room/kirikaeshimachine.png){:height="550" .center}
+![](/assets/images/koji_room/Kirikaeshimachine.png){:height="550" .center}
 *A mixing (kiri-kaeshi) machine, from Hakuyo Co., Ltd.*
 
 #### Load cells
 
 Some breweries install load cells at the feet of their koji-making table to track substrate weight throughout the process. 
 
-![](/assets/images/koji_room/loadcell.png){:height="550" .center}
+![](/assets/images/koji_room/Loadcell.png){:height="550" .center}
 *A load cell installed underneath a table (toko) in a traditional style room, from Hakuyo Co., Ltd.*
 
 #### The room
