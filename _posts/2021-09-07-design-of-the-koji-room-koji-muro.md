@@ -47,7 +47,7 @@ Without any electric fans, these koji rooms were equipped with one or several pa
 
 There were a few known issues with these older koji rooms. Firstly, they would often be heated by small fires or hot charcoals - and anoxia was a safety issue. Secondly, the rice straw insulation, although effective when dry, loses its thermal insulation properties when wet. They were also magnets for non-desirable organisms including Japan's brewery enemy No. 1, *Bacillus subtilis*. 
 
-That being said, these koji rooms were effective - and even though they lack most modern HVAC luxuries, the brewery still had access to the two most important pieces of instrumentation: a dry-bulb and wet-bulb thermometer, from which you can calculate 
+That being said, these koji rooms were effective - and even though they lack most modern HVAC luxuries, the brewery still had access to the two most important pieces of instrumentation: a dry-bulb and wet-bulb thermometer, from which you can calculate all properties of the room air using a **psychrometric chart**. 
 
 ## Modern Koji Rooms
 
@@ -68,7 +68,7 @@ Perhaps the easiest way to explain the design of a koji-room is to go through an
 Let's consider a koji room with the following parameters:
 
 1. Seishu (*sake*) rice-koji polished 75% with a capacity of 300kg steamed rice per batch (*hiki-komi* weight - more on the process [here](https://controlledmold.com/the-koji-making-process-temperature-mycelium-and-moisture/))
-2. Table koji method (more on methods [here](https://controlled\text{mol}d.com/industrial-koji-fermentation-equipment/))
+2. Table koji method (more on methods [here](https://controlledmold.com/industrial-koji-fermentation-equipment/))
 3. Room conditions are 30°C at 70% Relative Humidity (RH) - constant throughout process 
 4. Outdoor / brewery conditions are 5°C at 50% RH - sake brewing performed in the winter
 
@@ -98,7 +98,7 @@ With these parameters, the remainder of the process is fairly simple: all we hav
 
 ### 1. Dimensions 
 
-Let's determine the size of our table (*toko*) and koji room. To fit 300kg of steamed rice for inoculation (*tane-kiri*) and at the end of the process (*shimai shigoto*) at a depth of 5cm, we need a 13.2 square meter table, housed in a koji room measuring about **8m(L) x 5m (W) x 2.2m(H)** in order to fit clearances and other equipment (See Appendix - Step 1, 2).
+Let's determine the size of our table (*toko*) and koji room. To fit 300kg of steamed rice for inoculation (*tane-kiri*) and at the end of the process (*shimai shigoto*) at a depth of 5cm, we need a 13.2 square meter table, housed in a koji room measuring about **8m(L) x 5m (W) x 2.2m(H)** in order to fit clearances and other equipment (See Appendix - [Step 1](#step-1---determine-the-room-and-outdoor-conditions), [Step 2](#step-2---determine-the-koji-amount-dry-weight-and-room-dimensions)).
 
 ### 2. Insulation
 
@@ -107,9 +107,9 @@ The koji room's insulation must be sufficient to keep the room warm AND prevent 
 ![](/assets/images/koji_room/Wallheattransfer.png){:height="550" .center}
 *Depiction of 1-D steady state heat transfer through a wall*
 
-Our koji room, sitting at 30°C and 70% RH, will be slightly colder near the inside wall in an area known as the **temperature boundary layer**. The temperature right up against the interior wall *must* be greater than the dew point of the air in the koji room (which is 23.9°C) or condensation will form. 
+Our koji room, sitting at 30°C and 70% RH, will be slightly colder near the inside wall in an area known as the **temperature boundary layer**. The temperature right up against the interior wall *must* be greater than the dew point of the air in the koji room (at 30°C and 70% RH, the dew point is 23.9°C from a psychrometric chart) or condensation will form. 
 
-This is a 1-dimensional heat transfer problem. If we pick 4-inch polyurethane with a total RSI-value of 4.24, we can demonstrate that the wall temperature will not fall below 29.3°C. (see Appendix - Step 3). This might seem like overkill - our design requirement was 23.9°C! But trust me, insulation is cheap relative to the rest of the room; and the heat retention will save costs in the long run. 
+This is a 1-dimensional heat transfer problem. If we pick 4-inch polyurethane with a total RSI-value of 4.24 (RSI is the metric equivalent of the imperial R-value, a measure of an insulation's thermal resistance), we can demonstrate that the wall temperature will not fall below 29.3°C. (see Appendix - [Step 3](#step-3---determine-heat-loss-through-the-room-walls-and-check-for-condensation)). This might seem like overkill - our design requirement was 23.9°C! But trust me, insulation is cheap relative to the rest of the room; and the heat retention will save costs in the long run. 
 
 If the indoor conditions are maintained at 30°C, we can further demonstrate that the heat losses through the wall will total **764W**. To keep the room warm, an equal amount of heat must be supplied. Let's illustrate the conditions of the koji room at time t=0 after inoculation, during which the koji generates no heat and all openings to the room are closed:
 
@@ -121,16 +121,16 @@ The koji room's ventilation must be sufficient to remove excess heat, humidity, 
 
 Let's demonstrate which of these three design criteria is our limit, using our example. 
 
-First, consider the requirements for **heat removal**. We can show that our 300kg of rice-koji at *hiki-komi* has a dry weight of 195kg, and will generate 1623W at the peak of its metabolism (see Appendix - Step 4). Our conductive heat losses were calculated to be 764W, so we know that ventilation for heat removal must equal 859W by exchanging indoor air with cold, outdoor air. This requires a ventilation rate of 41m³/h.
+First, consider the requirements for **heat removal**. We can show that our 300kg of rice-koji at *hiki-komi* has a dry weight of 195kg, and will generate 1623W at the peak of its metabolism (see Appendix - [Step 4](step-4---determine-the-ventilation-requirements-for-heat-removal)). Our conductive heat losses were calculated to be 764W, so we know that ventilation for heat removal must equal 859W by exchanging indoor air with cold, outdoor air. This requires a ventilation rate of 41m³/h.
 
 
 ![Heat balance of the koji room with ventilation sized for heat removal](/assets/images/koji_room/02kojiroomheat.png)
 
-Next, let's consider the requirements for **moisture removal**. About 80% of the heat generated by koji is lost as water vapour, with the remaining 20% lost due to other effects. At the peak of its heat generation, we can show that the our 300kg of koji will emit 2.16kg of water per hour (see Appendix - Step 5). By exchanging moist indoor air with dry, outdoor air, we can show that a ventilation rate of **119m³/h** is necessary to remove the moisture emitted by koji.
+Next, let's consider the requirements for **moisture removal**. About 80% of the heat generated by koji is lost as water vapour, with the remaining 20% lost due to other effects. At the peak of its heat generation, we can show that the our 300kg of koji will emit 2.16kg of water per hour (see Appendix - [Step 5](step-5---determine-the-ventilation-requirements-for-moisture-removal)). By exchanging moist indoor air with dry, outdoor air, we can show that a ventilation rate of **119m³/h** is necessary to remove the moisture emitted by koji.
 
 ![Mass balance of the koji room with ventilation sized for moisture removal](/assets/images/koji_room/03kojiroomwater.png)
 
-Finally, let's consider the requirements for **carbon dioxide removal**. Koji has a respiratory coefficient of around 1.0 throughout its entire process, which means that the koji's peak heat generation of 1623W equates to a CO₂ generation rate of 0.3m³ CO₂/h (see Appendix - Step 6) using the aerobic metabolism equation:
+Finally, let's consider the requirements for **carbon dioxide removal**. Koji has a respiratory coefficient of around 1.0 throughout its entire process, which means that the koji's peak heat generation of 1623W equates to a CO₂ generation rate of 0.3m³ CO₂/h (see Appendix - [Step 6](step-6---determine-the-ventilation-requirements-for-co-removal)) using the aerobic metabolism equation:
 
 $$
 C_6H_{12}O_6+6O_2 \rightarrow 6CO_2 +6H_2O+2872kJ/\text{mol} \cdot \text{glucose}
@@ -144,7 +144,7 @@ Comparing the three ventilation rates, we can see that **moisture removal**, at 
 
 ### 4. Heating
 
-Knowing that our maximum ventilation rate will be **119m³/h**, let's size the heating panels of the koji-room. Our conductive heat losses are 764W, and ventilating fresh air at 119m³/h removes 2480W of heat. Our koji generates 1623W of heat at its peak, so our heater must provide at least 1621W of heat (see Appendix - Step 7):
+Knowing that our maximum ventilation rate will be **119m³/h**, let's size the heating panels of the koji-room. Our conductive heat losses are 764W, and ventilating fresh air at 119m³/h removes 2480W of heat. Our koji generates 1623W of heat at its peak, so our heater must provide at least 1621W of heat (see Appendix - [Step 7](step-7---determine-the-heating-requirements)):
 
 ![Final heat balance the koji room with ventilation with ventilation sized for moisture removal](/assets/images/koji_room/05kojiroomfinal.png)
 
@@ -233,7 +233,7 @@ Some breweries install load cells at the feet of their koji-making table to trac
 And finally here's the best picture I could find of a koji room online, which is cedar-lined, uses a modern koji-making machine, and includes wall-mounted panel heaters, a mixing machine, and some other features discussed in this post. 
 
 ![](/assets/images/koji_room/Bestroom.jpg){:height="550" .center}
-*A photo of koji room from www.sake-hourai.co.jp*
+*A photo of koji room from www.sake-hourai.co.jp: with heating panels (lower side of walls), a room-based koji machine (centre), kiri-kaeshi machine (back of room), thermometer and wet-bulb thermometer (left) and exhaust chimney (roof)*
 
 ## Conclusions 
 
