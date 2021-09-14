@@ -80,7 +80,7 @@ The table below provides all the key information needed to properly design a koj
 
 **Table 1 - Design parameters for common koji substrates [4]** 
 
-
+{:.table-clean}
 | Substrate                              | Initial Moisture<br /> (%) | Initial Specific Volume<br /> (L/kg) | Peak Heat Generation <br />(kJ/kg-dry/h) | Total Heat Generation<br />  (kJ/kg-dry) |
 | -------------------------------------- | -------------------------: | -----------------------------------: | ---------------------------------------: | ---------------------------------------: |
 | Wheat bran & rice husk koji (1:1)      |                      50-55 |                                  9.2 |                                      158 |                                1990-2620 |
