@@ -134,6 +134,6 @@ The other question is, of course, can I brew this at home?
 
 6. Flavourzyme 500MG Product Data Sheet - Novozymes A/S. Dated 2017-08-24. Accessed 2021-06-06 from: https://www.ibric.org/myboard/view.php?Board=scicafe000352&filename=0003423_1.pdf&id=3423&fidx=1.
 
-7. *Koji Studies*, 6th ed.; Hideya, M.; The Brewing Society of Japan: Tokyo, 1986.
+7. *Koji Studies*, 6th ed.; Hideya, M.; The Brewing Society of Japan: Tokyo, 2018.
 
 8. Mochizuki, T. About the use of enzymes in miso brewing. *Journal of the Brewing Society of Japan* **1969**, *64* (5), 423–430. https://doi.org/10.6013/jbrewsocjapan1915.64.423.
