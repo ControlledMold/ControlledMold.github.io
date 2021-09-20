@@ -51,7 +51,7 @@ That being said, these koji rooms were effective - and even though they lack mos
 
 ## Modern Koji Rooms
 
-Modern koji rooms solved all the problems with old koji-rooms, and starting in the 1950s, all breweries quickly renovated to employ the following design features, which I'll quickly summarize:
+Modern koji-rooms solved all the problems with old koji-rooms, and starting in the 1950s, all breweries quickly renovated to employ the following design features, which I'll quickly summarize:
 
 1. Electric heaters (often wall-mounted panel heaters or wall-mounted heating coils)
 2. Modern insulation (fibreglass, mineral wool, PVC foam, styrofoam, or polyurethane foam)
@@ -80,6 +80,7 @@ The table below provides all the key information needed to properly design a koj
 
 **Table 1 - Design parameters for common koji substrates [4]** 
 
+{:.table-clean}
 | Substrate                              | Initial Moisture<br /> (%) | Initial Specific Volume<br /> (L/kg) | Peak Heat Generation <br />(kJ/kg-dry/h) | Total Heat Generation<br />  (kJ/kg-dry) |
 | -------------------------------------- | -------------------------: | -----------------------------------: | ---------------------------------------: | ---------------------------------------: |
 | Wheat bran & rice husk koji (1:1)      |                      50-55 |                                  9.2 |                                      158 |                                1990-2620 |
@@ -121,7 +122,7 @@ The koji room's ventilation must be sufficient to remove excess heat, humidity, 
 
 Let's demonstrate which of these three design criteria is our limit, using our example. 
 
-First, consider the requirements for **heat removal**. We can show that our 300kg of rice-koji at *hiki-komi* has a dry weight of 195kg, and will generate 1623W at the peak of its metabolism (see Appendix - [Step 4](#step-4---determine-the-ventilation-requirements-for-heat-removal)). Our conductive heat losses were calculated to be 764W, so we know that ventilation for heat removal must equal 859W by exchanging indoor air with cold, outdoor air. This requires a ventilation rate of 41m³/h.
+First, consider the requirements for **heat removal**. We can show that our 300kg of rice-koji at *hiki-komi* has a dry weight of 195kg, and will generate 1623W at the peak of its metabolism (see Appendix - [Step 4](#step-4---determine-the-ventilation-requirements-for-heat-removal)). Our conductive heat losses were calculated to be 764W, so we know that ventilation for heat removal must equal 859W by exchanging indoor air with cold, outdoor air. This requires a ventilation rate of **41m³/h**.
 
 
 ![Heat balance of the koji room with ventilation sized for heat removal](/assets/images/koji_room/02kojiroomheat.png)
@@ -209,7 +210,7 @@ Some other equipment worth mentioning, primarily used to reduce labour costs:
 
 #### Air shooter
 
-A common way to transfer steamed substrate into the koji room, and finished koji out of the room, is to use a device called an *air shooter*. This is a a Japanese *wasei-eigo* term for what would commonly be called a pneumatic conveying system consisting of: 1) a blower 2) a feed assembly consisting of a hopper, rotary valve, and solids-conveying educator, 3) a bunch of hose, and 4) an outlet cyclone (optional). These are much faster than transferring substrate by hand. 
+A common way to transfer steamed substrate into the koji room, and finished koji out of the room, is to use a device called an *air shooter*. This is a Japanese *wasei-eigo* term for what would commonly be called a pneumatic conveying system consisting of: 1) a blower 2) a feed assembly consisting of a hopper, rotary valve, and solids-conveying educator, 3) a bunch of hose, and 4) an outlet cyclone (optional). These are much faster than transferring substrate by hand. 
 
 ![](/assets/images/koji_room/Airshooter.png){:height="550" .center}
 *Top: a schematic of an air-shooter (pneumatic conveying system), bottom-left: feed assembly, bottom-right: blower. From [1] and Toyo Shokai Co., Ltd.*
@@ -283,9 +284,11 @@ Air flows in this post are using a dry air basis at 30°C / 70% RH (indoor condi
 #### Step 2 - Determine the koji amount, dry weight, and room dimensions. 
 
 The weight of steamed rice at inoculation (hiki-komi) will be 300kg. If the unsoaked white rice has a moisture of 13%, and the water absorption ratio at inoculation is 34%, the actual water content of the koji is:
+
 $$
 \%Total\ moisture = \frac{Total\  Water}{Total\  Weight}=\frac{13\%+34\%}{100\%+34\%} = 35.1\%
 $$
+
 This is in agreement with Table 1. Thus the dry weight of the steamed rice is 194.8kg and its peak heat generation is 5843kJ/h or 1623W (unit conversions not shown).
 
 Let the depth of koji be 5cm. Based on Table 1, 300kg of steamed rice will occupy approximately 660L or 0.66m³ in volume and require a table with an area of 13.2 square meters (geometric calculations not shown). Let's select a 5.3m x 2.5m table. To allow for clearance and the storage of other items, let's select a room of 8m (L) x 5m (W). Finally, a ceiling height of 2.0-2.2m is standard - we will select 2.2m (H).
@@ -321,15 +324,19 @@ Where,
  - $RSI_n$ = insulation R value (metric RSI value), equivalent to x/k (m-K/W)
 
 Select a 4-inch polyurethane insulation with a total metric RSI value of 4.24 (m-K/W). We'll use a convective heat transfer coefficient of 8.0 W/m-K on both sides of the wall. Now, we can find the overall heat transfer coefficient:
+
 $$
 \frac{1}{U} = \frac{1}{8}+4.24 +\frac{1}{8} \text{ (SI Units)}\\
 U = 1.3W/m^2\cdot K
 $$
+
 As well as the heat losses through the wall:
+
 $$
 Q = (1.3W/m^2\cdot K)(137.2m^2 )(30^\circ C-5^\circ C) \\
 Q = 764W
 $$
+
 Heat flux is simply heat transfer divided by area, or Q/A. In 1-D steady state heat transfer, this term is constant no matter where you are along the wall. 
 $$
 \frac{Q}{A} = h(T_1 - T_w)
@@ -339,10 +346,12 @@ Where,
 $T_w$ is the temperature at the koji room wall
 
 If we solve for the wall temperature:
+
 $$
 763W = (8W/m^2\cdot K)(137.2m^2)(30^\circ C-T_w)\\
 T_w = 29.3^\circ C
 $$
+
 This is well above the dew point of our koji room, so no condensation is expected.
 
 ----
@@ -350,9 +359,11 @@ This is well above the dew point of our koji room, so no condensation is expecte
 #### Step 4 - Determine the ventilation requirements for heat removal 
 
 This is a heat balance on the koji room:
+
 $$
 Q_{koji} = Q_{wall} + Q_{vent}
 $$
+
 Where,
 
  - $Q_{koji}$ - peat heat generation from koji (W)
@@ -360,9 +371,11 @@ Where,
  - $Q_{vent}$ - heat removed via ventilation (W)
 
 Heat removed by ventilation is simply flow rate times the difference in the air enthalpy in and out of the system:
+
 $$
 Q_{vent} = \dot{m}(H_1 -H_2)
 $$
+
 Where,
 
  - ṁ = mass flow rate of air (kg dry air/s)
@@ -388,6 +401,7 @@ $$
 \text{Water generated by koji} = \text{Water removed by ventilation}\\
 \frac{FQ_{koji}}{\Delta H_{vap,T_1}}=\dot{m}(W_1-W_2)
 $$
+
 Where
 
 - F = fraction of heat generated by koji removed by evaporative cooling (0.8)
@@ -396,10 +410,12 @@ Where
 - W₂ = outdoor absolute humidity (g water / kg dry air )
 
 Our mass balance becomes:
+
 $$
 \frac{(0.8)(1623W)}{2429.8J/g} = \dot{m}(18.8\text{g water/kg dry air} - 2.7\text{g water/kg dry air})\\
 m = 0.03317\text{kg dry air/s}
 $$
+
 We know its specific volume is 0.885 m³/kg dry air so the ventilation rate is 105.7m³/h (indoor basis).
 
 ----
@@ -411,22 +427,26 @@ Conversion of aerobic metabolic heat generation to carbon dioxide generation:
 $$
 \begin{align}
 & C_6H_{12}O_6+6O_2 \rightarrow 6CO_2 +6H_2O+2872kJ/\text{mol} \cdot \text{glucose} \\
-& 2872kJ/\text{mol}\ \text{glucose} \times\frac{1 \text{mol}\ \text{glucose}}{6\text{mol} \ CO_2}= 478.7kJ/\text{mol}\ CO_2 \rightarrow0.00209\text{mol}\ CO_2 /kJ\\
+& 2872kJ/\text{mol}\ \text{glucose} \times\frac{1 \text{mol}\ \text{glucose}}{6\text{mol} \ CO_2}= 478.7kJ/\text{mol}\ CO_2 \rightarrow0.00209\text{mol}\ CO_2 /kJ \\
 & \frac{0.00209\text{mol}\ CO_2 }{kJ}\times \frac{5843kJ}{h}(Q_{koji})=12.2\text{mol}\ CO_2 /h
 \end{align}
 $$
 
 We can convert to volumetric CO₂ generation using the ideal gas law:
+
 $$
 \dot{V}_{CO_2,koji}=\frac{\dot{n}RT}{P}\\
-\dot{V}_{CO_2,koji} =12.2\text{mol}\ CO_2 /h\times\frac{(8.314J\text{mol}^{-1}K^{-1})(303.15K)}{101300Pa}\\
+\dot{V}_{CO_2,koji} =12.2\text{mol}\ CO_2 /h\times\frac{(8.314J\text{mol}^{-1}K^{-1})(303.15K)}{101300Pa} \\
 \dot{V}_{CO_2,koji} = 0.304m^3/h
 $$
+
 Mass balance on carbon dioxide:
+
 $$
-CO_2 \text{ generated by koji} = CO_2 \text{ removed by ventilation}\\
+CO_2 \text{ generated by koji} = CO_2 \text{ removed by ventilation} \\
 \dot{V}_{CO_2,koji} =\dot{V}(C_1-C_2)
 $$
+
 Where,
 
  - $m_{CO₂,koji}$  = CO₂ generated by koji (m³/h)
@@ -435,8 +455,9 @@ Where,
  - C₂ = concentration of CO₂ outside (fraction)
 
 Our mass balance becomes: 
+
 $$
-0.304m^3/h = \dot{V}(0.004500-0.000500)\\
+0.304m^3/h = \dot{V}(0.004500-0.000500) \\
 \dot{V}=75.9m^3/h
 $$
 
@@ -445,15 +466,17 @@ $$
 #### Step 7 - Determine the heating requirements
 
 Heat balance on the koji room:
+
 $$
 Q_{koji}+Q_{heater}=Q_{wall}+Q_{vent}
 $$
+
 Where $Q_{heater}$ = heat required by the heater
 
 Our heat balance becomes:
 
 $$
-1623W + Q_{heater} =763W + (0.03317kg\ \text{dry air}/s)(78.3kJ/kg - 11.78kJ/kg)\cdot(\frac{1000W}{kJ/s})\\
+1623W + Q_{heater} =763W + (0.03317kg\ \text{dry air}/s)(78.3kJ/kg - 11.78kJ/kg)\cdot(\frac{1000W}{kJ/s}) \\
 Q_{heater} = 1621W
 $$
 
