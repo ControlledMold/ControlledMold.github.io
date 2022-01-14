@@ -153,11 +153,11 @@ Maybe I'll ask Quorn for some, or make my own. The original patents for this bio
 
 ##### The Protein Crisis 
 
-The original goal at inception, to prevent protein malnutrition, was never really met - because thankfully, and generally speaking - the 'Protein Crisis' neve happened agricultural productivity kept up with population growth through the 1960s, 70s, 80s, and beyond. This was mostly due to the *Green Revolution* consisting of better crop strains, fertilizer use, and the like. SCP could never compete economically with plant proteins. 
+The original goal at inception, to prevent protein malnutrition, was never really met - because thankfully, and generally speaking - the 'Protein Crisis' never happened: agricultural productivity kept up with population growth through the 1960s, 70s, 80s, and beyond. This was mostly due to the *Green Revolution* consisting of better crop strains, fertilizer use, and the like. SCP could never compete economically with plant proteins. 
 
-But I can't fault the authors of the original UN paper: in 1967 we hadn't even discovered RuBisCO, a key enzyme behind photosynthesis. This discovery wouldn't be made until well into the 1980s [12]. Before that, it might have been safe to assume that plants simply assimilate nitrogen to create protein, so we could bypass the process altogether by adding sugar and nitrogen into a bioreactor.
+But I can't fault the authors of the original UN paper: in 1967, we hadn't even discovered RuBisCO, a key enzyme behind photosynthesis. This discovery wouldn't be made until well into the 1980s [12]. Before that, it might have been safe to assume that plants simply assimilate nitrogen to create protein, so we could bypass the process altogether by adding sugar and nitrogen into a bioreactor.
 
-As it turns out, protein synthesis and photosynthesis are directly coupled. Photosynthesis relies on the action of enzymes, especially RuBisCO, the massive enzyme used in carbon fixation and possibly the most abundant enzyme on earth. So yes, the nitrogen applied to soil is assimilated into protein, but that protein also enables photosynthesis and the formation of carbohydrates. It's impossible to compare Quorn to plant protein, especially since its primary feedstock - glucose - is derived from plants. 
+As it turns out, protein synthesis and photosynthesis are directly coupled. Photosynthesis relies on the action of enzymes, especially RuBisCO, the massive enzyme used in carbon fixation. So yes, the nitrogen applied to soil is assimilated into protein, but that protein also enables photosynthesis and the formation of carbohydrates. It's impossible to compare Quorn to plant protein, especially since its primary feedstock - glucose - is derived from plants. 
 
 ##### Space Travel and the Apocalypse 
 
