@@ -194,7 +194,7 @@ Here is a list of Japanese terms pertaining to the koji-making process. This can
 
 #### References
 
-1. Murakami Hideya. Koji Studies - 6th edition. The Brewing Society of Japan: Tokyo, 1986.
+1. Murakami Hideya. Koji Studies - 6th edition. The Brewing Society of Japan: Tokyo, 2018.
 2. Katsuya Gomi, Regulatory mechanisms for amylolytic gene expression in the koji mold Aspergillus oryzae. Bioscience, Biotechnology, and Biochemistry 83:8 (2019), 1385-1401, https://doi.org/10.1080/09168451.2019.1625265
 3. Shigetoshi Sudo et al., Factors in the formation of haze. Journal of The Brewing Society of Japan, 97:5 (2002), 369-376, https://doi.org/10.6013/jbrewsocjapan1988.97.369
 4. Kazunari Ito et al., Quantitative evaluation of *haze* formation of *koji* and progression of internal *haze* by drying of *koji* during *koji* making. Journal of Bioscience and Bioengineering, 124:1 (2017), 62-70, https://doi.org/10.1016/j.jbiosc.2017.02.011

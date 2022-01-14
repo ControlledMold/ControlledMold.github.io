@@ -116,6 +116,6 @@ Rice polishing ratio, explained by [Nada-ken](http://www.nada-ken.com/main/en/in
 
 #### References
 
-Murakami Hideya. Koji Studies - 6th edition. Chapter 5 - Koji Enzymes. The Brewing Society of Japan: Tokyo, 1986.
+Murakami Hideya. Koji Studies - 6th edition. Chapter 5 - Koji Enzymes. The Brewing Society of Japan: Tokyo, 2018.
 
 Naoto Okazaki et al. Effects of koji-making conditions on growth and enzyme production. Journal of The Brewing Society of Japan, 74:10 (1979), 683-686, https://doi.org/10.6013/jbrewsocjapan1915.74.683
