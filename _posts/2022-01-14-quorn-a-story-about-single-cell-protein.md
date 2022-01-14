@@ -141,6 +141,10 @@ Alternatively, if corn ethanol gets banned due to policy changes, we're going to
 
 A food products' **organoleptic properties** matter a lot in the meat substitute space. Quorn's success comes in part due to the fact the the hyphal product, after heat treatment and freezing, resembles the fibrous texture of meat. 
 
+![](/assets/images/quorn/quorn-meatless-pieces-fried-texture.png){:height="350" .center}
+*Fried Quorn nuggets - Source: veggiepattytastetest.com*
+
+
 ##### Quorn as a Miso
 
 I'd love to get my hands on some *F. venenatum* biomass, centrifuged, **without heat-treating to remove RNA**. I would take this 20-30% solids biomass and heat treat it myself, keeping the 8-9% nucleic acids, and maybe make a miso or garum out of it, since it would contain plenty of natural 5'-ribonucleotides and glutamates. In theory it would make an umami bomb that doesn't have the flavour of yeast extracts. At the small amounts I would be consuming in either form, uric acid isn't a problem: so long as daily consumption is under the WHO recommendation of <2g RNA per day (a tablespoon of this stuff should contain around 0.3g)
