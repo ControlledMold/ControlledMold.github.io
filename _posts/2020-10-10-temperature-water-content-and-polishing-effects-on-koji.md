@@ -8,11 +8,9 @@ tags:
 - amylase
 - enzymes
 - rice
-- featured
 - water-content
 - polishing
 - temperature
-- sticky
 image: assets/images/temp_effect/header.png
 ---
 

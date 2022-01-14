@@ -2,6 +2,12 @@
 title: Design of the koji room (koji-muro)
 author: keith
 image: assets/images/koji_room/kojiroomthumb.png
+tags:
+- koji
+- solid-state-fermentation
+- scale-up
+categories:
+- koji
 ---
 
 I hope this post will provide a bit of guidance to anyone trying to build a koji room (also known as the *koji muro* or *sei-kiku shitsu*), especially as they scale up to the 50-1500kg/batch range. I'll go into the details of the history, design, and operation of the koji room. 

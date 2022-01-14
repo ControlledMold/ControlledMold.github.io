@@ -2,6 +2,12 @@
 title: 'Flavourzyme: a purified enzyme mixture from A. oryzae'
 author: keith
 image: assets/images/flavourzyme/Cover.png
+categories:
+- food
+tags:
+- enzymes
+- protease
+- food
 ---
 
 Flavourzyme™️ is a trademark name given to a mixture of refined proteolytic enzymes branded by Danish biotech company Novozymes A/S. It's produced by the submerged fermentation of our friend *A. oryzae* - in this post we'll look at what it is, and how it's made. 
