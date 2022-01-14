@@ -34,7 +34,7 @@ What did Quorn actually accomplish?
 
 Growing *F. venenatum* in a liquid culture is fairly straightforward. Like other liquid cultures, the fungi can be propogated in a sterile culture of carbohydrates, ammonia, oxygen, and nutrients: yielding biomass and carbon dioxide. 
 
-This can be accomplished by any bioreactor design, but after two iterations, the design team eventually opted for an **external-loop airlift bioreactor** [4-7] that looks a bit like a klein bottle from mathematics: 
+This can be accomplished by any bioreactor design, but after two iterations, the design team eventually opted for an **external-loop airlift bioreactor** [4-7] that looks a bit like a Klein bottle from mathematics: 
 
 ![](/assets/images/quorn/airliftbioreactor.png){:height="550" .center}
 
@@ -112,9 +112,9 @@ Although it was difficult to piece together the mass balance, since these number
 
 ##### Process Efficiency 
 
-So how does Quorn compare? 
+So how does Quorn compare to traditional protein generation? The "efficiency" of a source of protein for consumption can be measured in two ways:  **caloric** and **protein** conversion efficiency. The caloric conversion efficiency is the ratio of calories output  by calorie input (recall: we are adding glucose, a high-calorie feed, to the bioreactor). Similarly, the protien conversion efficiency measures is the ratio of protien output by protein input (animals, like humans, require protein to grow and produce their own protien).
 
-At a high level, we ended up with a bioprocess that is more efficient than animal rearing, cost and nutritionally competitive as a meat substitute, but still more expensive than plant proteins. If we examine the **caloric** and **protein** conversion efficiencies of Quorn next to animal proteins [13], we can see that it holds up well enough:
+At a high level, we ended up with a bioprocess that is more efficient than animal rearing, cost and nutritionally competitive as a meat substitute, but still more expensive than plant proteins. If we examine the caloric and protein conversion efficiencies of Quorn next to animal proteins [13], we can see that it holds up well enough:
 
 
 {:.table-clean}
