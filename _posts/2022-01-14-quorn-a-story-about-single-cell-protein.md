@@ -36,7 +36,7 @@ Growing *F. venenatum* in a liquid culture is fairly straightforward. Like other
 
 This can be accomplished with any bioreactor design, but after two iterations, the design team eventually opted for an **external-loop airlift bioreactor** [4-7] that looks a bit like a Klein bottle from mathematics: 
 
-![](/assets/images/quorn/airliftbioreactor.png){:height="550" .center}
+![](/assets/images/quorn/airliftbioreactor.png){:width="550" .center}
 
 Here's how it works:
 
@@ -72,7 +72,7 @@ Things that grow fast and produce proteins quickly contain a lot of RNA for tran
 
 The *F. venenatum* biomass has a nucleic acid content of around 8-9% w/w dry basis which is too high for human consumption. To solve this problem, the biomass is heated to 68°C for 15+ minutes, and endogenous RNAases break down cellular RNA into 5'-ribonucleotides, which diffuse out of the cell. But this comes at a cost - over 30% of the biomass is also lost in the process. This heating process causes some components of the hyphae to leak out into the surroundings. 
 
-![](/assets/images/quorn/RNAase.png){:height="450" .center}
+![](/assets/images/quorn/RNAase.png){:width="450" .center}
 
 Luckily, some 5'-ribonucleotides are potent umami compounds and synergistic with glutamate. The producers of Quorn concentrate this liquid and sell it as a flavour enhancer. 
 
@@ -82,7 +82,7 @@ Growing a continuous culture over an extended period of time presents an interes
 
 This isn't actually a problem for biomass production, but the branched mutation has an inferior texture to the more linear parent. The goal of Quorn is to simulate meat-like fibres which require linear hyphae. 
 
-![](/assets/images/quorn/Linearvsbranched.png){:height="350" .center}
+![](/assets/images/quorn/Linearvsbranched.png){:width="350" .center}
 
 And so, at around 1000h (6 weeks) of operation, the reactor is shut down to be re-seeded with a new culture. For all practical purposes, this is good enough: resetting the reactor at such long intervals is an insignificant loss in productivity and the operators would need a window to clean and perform maintenance anyways. 
 
@@ -108,7 +108,7 @@ Any new or competing product better be more efficient, taste better, or be cheap
 
 Although it was difficult to piece together the mass balance, since process details tend to only be available to plant operators and engineers, I could piece together a decent estimate by combining several sources [4-10] and my own assumptions:
 
-![](/assets/images/quorn/Quornmassbalance.png){:height="550" .center}
+![](/assets/images/quorn/Quornmassbalance.png){:width="550" .center}
 
 ##### Process Efficiency 
 
@@ -141,7 +141,7 @@ Alternatively, if corn ethanol gets banned due to policy changes, we're going to
 
 A food products' **organoleptic properties** matter a lot in the meat substitute space. Quorn's success comes in part due to the fact the the hyphal product, after heat treatment and freezing, resembles the fibrous texture of meat. 
 
-![](/assets/images/quorn/quorn-meatless-pieces-fried-texture.png){:height="350" .center}
+![](/assets/images/quorn/quorn-meatless-pieces-fried-texture.png){:width="350" .center}
 *Fried Quorn nuggets - Source: veggiepattytastetest.com*
 
 ##### Quorn as a Miso
