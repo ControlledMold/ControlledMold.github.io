@@ -16,7 +16,7 @@ Koji generates a considerable amount of heat as it grows - if you've ever made k
 
 This is an example of a temperature - time curve for sake koji. There are also different curves for mirin, miso, shochu, etc., and for different manufacturing methods, but the key concepts apply for all applications.
 
-![graph of temperature](/assets/images/koji_temp_curve/Graph 1.PNG){:height="450" .center}
+![graph of temperature](/assets/images/koji_temp_curve/Graph 1.PNG){:width="650" .center}
 
 Note that this chart refers to the substrate temperature, measured inside the bed of koji, and not the room itself. But why is there such a complicated temperature progression? Can't we just set a single temperature and walk away?  To explain this temperature curve, there are a few things that need to be kept in mind:
 
@@ -28,7 +28,7 @@ I've already described the effects of 2. and 3. in a [previous post](https://con
 
 Let's annotate the temperature-time curve and add the names of the traditional processes to this chart:
 
-![graph of temperature](/assets/images/koji_temp_curve/Graph 2.PNG){:height="450" .center}
+![graph of temperature](/assets/images/koji_temp_curve/Graph 2.PNG){:width="650" .center}
 
 The entire process can roughly be broken down into three periods:
 
@@ -106,7 +106,7 @@ The weight ratio is usually measured at these key steps. The values for sake-koj
 
 Now let's add a weight ratio progression to the temperature curve:
 
-![graph of temperature](/assets/images/koji_temp_curve/Graph 3.PNG){:height="450" .center}
+![graph of temperature](/assets/images/koji_temp_curve/Graph 3.PNG){:width="650" .center}
 
 Here's how the water content progresses during each period of growth:
 
