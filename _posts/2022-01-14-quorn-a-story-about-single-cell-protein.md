@@ -107,7 +107,7 @@ Any new or competing product better be more efficient, taste better, or be cheap
 
 Although it was difficult to piece together the mass balance, since process details tend to only be available to plant operators and engineers, I could piece together a decent estimate by combining several sources [4-10] and my own assumptions:
 
-![](/assets/images/quorn/Quornmassbalance.png){:width="550" .center}
+![](/assets/images/quorn/quornmassbalance.png){:width="550" .center}
 
 ##### Process Efficiency 
 
