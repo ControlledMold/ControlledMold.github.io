@@ -20,15 +20,14 @@ This post is about one SCP product: *Quorn* - which is the brand name for imitat
 
 ### The Inception of Quorn and the 'Protein Crisis'
 
-Between the 1950s and 1970s, amidst a massive global population boom there was a concern that children in developing countries were becoming malnourished due to a lack of protein. This culminated in a 1968 paper from the United Nations with policies to avert this 'protein crisis', and one of their recommendations was to promote the development of single-cell protein for direct consumption or animal feeding [1]. This sounds promising at first: microorganisms grow fast, don't take up a lot of space, and are **30% - 80% protein** by dry mass. [2]
+Between the 1950s and 1970s, amidst a massive global population boom, there was a concern that children in developing countries were becoming malnourished due to a lack of protein. This culminated in a 1968 paper from the United Nations with policies to avert this 'protein crisis', and one of their recommendations was to promote the development of single-cell protein for direct consumption or animal feeding [1]. This sounds promising at first: microorganisms grow fast, don't take up a lot of space, and are **30% - 80% protein** by dry mass. [2]
 
-Around 1967, the British company Rank Hovis McDougall (RHM) took on the challenge, eventually selecting a strain of ***Fusarium venenatum*** (A 3/5) out of 3000+ candidates. To scale-up, RHM initially worked with DuPont using continuously stirred tank reactors (CSTRs) before collaborating with the Imperial Chemical Industries (ICI) to use their airlift bioreactor - more on that later [3]. This Joint venture would be known as Marlow Foods. 
+Around 1967, the British company Rank Hovis McDougall (RHM) took on the challenge, eventually selecting a strain of ***Fusarium venenatum*** (A 3/5) out of 3000+ candidates. To scale-up, RHM initially worked with DuPont using continuously stirred tank reactors (CSTRs) before collaborating with the Imperial Chemical Industries (ICI) to use their airlift bioreactor - more on that later [3]. This joint venture would be known as Marlow Foods. 
 
 There are plenty of articles highlighting the history of Quorn, which I've linked in the References section. Although the history and biology of Quorn is interesting, I want to focus on two things in this post:
 
-How did Quorn succeed at scale, from an engineering perspective?
-
-What did Quorn actually accomplish?
+1. How did Quorn succeed at scale, from an engineering perspective?
+2. What did Quorn actually accomplish?
 
 ### Bioreactor Design - Upstream Processing 
 
@@ -70,7 +69,7 @@ Things that grow fast and produce proteins quickly contain a lot of RNA for tran
 💡 First note: In humans, purines are metabolized into uric acid, and pyramidines are metabolized into orotic acid. The uric acid problem is primarily related to primates: somewhere on the evolutionary calendar, a mutation in a common ancestor knocked out the gene for uricase in humans and other primates. In non-primates, uric acid is simply metabolized into allantoin, which is soluble and excreted [11]. 
 </div>
 
-The *F. venenatum* biomass has a nucleic acid content of around 8-9% w/w dry basis which is too high for human consumption. To solve this problem, the biomass is heated to 68°C for 15+ minutes, and endogenous RNAases break down cellular RNA into 5'-ribonucleotides, which diffuse out of the cell. But this comes at a cost - over 30% of the biomass is also lost in the process. This heating process causes some components of the hyphae to leak out into the surroundings. 
+The *F. venenatum* biomass has a nucleic acid content of around 8-9% w/w dry basis which is too high for human consumption. To solve this problem, the biomass is heated to 68°C for 15+ minutes, and endogenous RNAases break down cellular RNA into 5'-ribonucleotides, which diffuse out of the cell.  This heating process causes some components of the hyphae to leak out into the surroundings - and up  30% of the biomass is also lost in the process.
 
 ![](/assets/images/quorn/RNAase.png){:width="450" .center}
 
