@@ -136,7 +136,7 @@ Having a direct pathway from **carbohydrates + ammonia** to **protein** has a lo
 
 Alternatively, if corn ethanol gets banned due to policy changes, we're going to have a lot of un-used corn milling and hydrolysing infrastructure. These could easily be adapted into Quorn-type protein production plants. 
 
-#### Taste and Texture Matter
+##### Taste and Texture Matter
 
 A food products' **organoleptic properties** matter a lot in the meat substitute space. Quorn's success comes in part due to the fact the the hyphal product, after heat treatment and freezing, resembles the fibrous texture of meat. 
 
