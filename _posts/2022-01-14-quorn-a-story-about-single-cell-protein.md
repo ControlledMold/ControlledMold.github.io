@@ -107,7 +107,7 @@ Any new or competing product better be more efficient, taste better, or be cheap
 
 Although it was difficult to piece together the mass balance, since process details tend to only be available to plant operators and engineers, I could piece together a decent estimate by combining several sources [4-10] and my own assumptions:
 
-![](/assets/images/quorn/Quornmassbalance.png){:width="550" .center}
+![](/assets/images/quorn/quornmassbalance.png){:width="550" .center}
 
 ##### Process Efficiency 
 
@@ -136,7 +136,7 @@ Having a direct pathway from **carbohydrates + ammonia** to **protein** has a lo
 
 Alternatively, if corn ethanol gets banned due to policy changes, we're going to have a lot of un-used corn milling and hydrolysing infrastructure. These could easily be adapted into Quorn-type protein production plants. 
 
-#### Taste and Texture Matter
+##### Taste and Texture Matter
 
 A food products' **organoleptic properties** matter a lot in the meat substitute space. Quorn's success comes in part due to the fact the the hyphal product, after heat treatment and freezing, resembles the fibrous texture of meat. 
 
