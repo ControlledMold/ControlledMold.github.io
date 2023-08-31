@@ -93,7 +93,7 @@ But what if things get more complicated? What if you need to measure the product
 
 Take the standard natto production graph, for example. The room temperature, humidity, and product temperature setpoints are constantly changing as a function of time. 
 
-![](/assets/images/koji_plc1/Nattograph.JPG){:width="450" .center}
+![](/assets/images/koji_plc1/Nattograph.jpg){:width="450" .center}
 
 Not something you can pull of with a simple controller without sitting in front of it and changing the setpoint constantly. 
 
