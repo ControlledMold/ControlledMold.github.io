@@ -26,9 +26,7 @@ In short, I don't have the space to build a full size koji room, so we'll do the
 
 ## What is a PLC, and why use one?
 
-A Programmable Logic Controller (PLC) is an industrial grade computer. If you already know how PLCs work, skip this section.
-
-Industry uses specialized computers called PLCs to control and automate all of their manufacturing and processes. These PLCs read and write signals to equipment and other pieces of instrumentation in the field (I/O) and can communicate to other PLCs and Supervisory Control and Data Acquisition (SCADA) systems. 
+Industry uses specialized computers called Programmable Logic Controllers, or PLCs, to control and automate all of their manufacturing and processes. These PLCs read and write signals to equipment and other pieces of instrumentation in the field (I/O) and can communicate to other PLCs and Supervisory Control and Data Acquisition (SCADA) systems. 
 
 On the surface, PLCs seem completely overpriced for their specs. 
 
@@ -105,7 +103,7 @@ Hopefully you're convinced by now, so let's put together a PLC system.
 
 Our first system will be simple. The PLC will have the following I/O:
 
-1. **Analog Inputs (AI):** Room RH (4-20mA), Room CO2 (4-20mA), Room temperature (TC Type K), and Product Temperature (TC Type K). 
+1. **Analog Inputs (AI):** Room RH (4-20mA), Room CO2 (4-20mA), Room temperature (Type K Thermocouple), and Product Temperature (Type K Thermocouple). 
 2. **Analog Outputs (AO): ** For now, none. In the future, we'll add one AO from a PID loop to control a variable heating element, and possibly variable-rate ventilation. 
 3. **Digital Inputs (DI):** For now, none. In the future, we can add some basic pushbuttons and selector switches that let the user reset the system, stop everything, and select between LOCAL (panel control) and REMOTE (SCADA control).
 4. **Digital Outputs** **(DO)**: We'll wire digital outputs to relays to control: Heating, Humidification, Cooling, and Ventilation. 
@@ -152,7 +150,8 @@ This post barely scratches the surface of the capabilities of PLCs. I won't be g
 A few final notes:
 
 - There are plenty of "budget" PLCs out there. I haven't worked with all of them, so I can't really offer my opinion on them. Certainly Koyo Click and Productivity Open, both offered by AutomationDirect, are the cheapest.
-- Having gone through this exercise, I'm not really sure what the best way of measuring temperature is for koji applications (TCs vs RTDs vs others). I might try multiple methods, just for fun. 
+- Having gone through this exercise, I'm not really sure what the best way of measuring temperature is for koji applications (TCs vs RTDs vs others). I might try multiple methods, just for fun.
+- If you're looking to buy PLC, automation, and control panel components, I found AutomationDirect, RS Components International, and DigiKey to be the best. Looks like McMaster-Carr no longer sells to individuals, and Amazon products are shoddy at best (usually missing CSA/UL labels, certifications, etc.) Used stuff is also a great option!
 
 ## References
 
