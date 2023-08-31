@@ -48,7 +48,7 @@ Compare this with your typical small PLC. We'll use the North America's Allen Br
 2. I/O Modules: 16x Digital Inputs, 8x Digital Outputs, 4x Analog Inputs, 4x Analog Ouputs - around **$3000 CAD**
 3. Allen Bradley Programming Software - around **$1200 CAD** 
 
-![](/assets/images/koji_plc1/Compactlogix.JPEG){:width="450" .center}
+![](/assets/images/koji_plc1/Compactlogix.jpeg){:width="450" .center}
 
 This thing can... switch stuff on and off? Take some measurements from sensors? All in, with power supplies, an electrical enclosure, terminal blocks, relays, pushbuttons, and communications, our example industrial panel will easily cost over **<u>$15000 CAD</u>**.
 
