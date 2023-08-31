@@ -38,7 +38,7 @@ Consider this - recently I helped build a PC for a buddy of mine. The main compo
 2. GPU: AMD RX 5600XT - around **$400 CAD**
 3. Windows 11 - around **$100 CAD**
 
-![](/assets/images/koji_plc1/Gamingpc.jpg){:width="450" .center}
+![](/assets/images/koji_plc1/Gamingpc.JPG){:width="450" .center}
 
 This thing can run engineering simulations, design software, play many games at high settings 1440p/144FPS, and more. All in, with the motherboard, chassis, RAM, power supply, etc... this system cost around **<u>$1200 CAD</u>**. 
 
@@ -48,7 +48,7 @@ Compare this with your typical small PLC. We'll use the North America's Allen Br
 2. I/O Modules: 16x Digital Inputs, 8x Digital Outputs, 4x Analog Inputs, 4x Analog Ouputs - around **$3000 CAD**
 3. Allen Bradley Programming Software - around **$1200 CAD** 
 
-![](/assets/images/koji_plc1/Compactlogix.jpg){:width="450" .center}
+![](/assets/images/koji_plc1/Compactlogix.JPG){:width="450" .center}
 
 This thing can... switch stuff on and off? Take some measurements from sensors? All in, with power supplies, an electrical enclosure, terminal blocks, relays, pushbuttons, and communications, our example industrial panel will easily cost over **<u>$15000 CAD</u>**.
 
@@ -93,7 +93,7 @@ But what if things get more complicated? What if you need to measure the product
 
 Take the standard natto production graph, for example. The room temperature, humidity, and product temperature setpoints are constantly changing as a function of time. 
 
-![](/assets/images/koji_plc1/Nattograph.jpg){:width="450" .center}
+![](/assets/images/koji_plc1/Nattograph.JPG){:width="450" .center}
 
 Not something you can pull of with a simple controller without sitting in front of it and changing the setpoint constantly. 
 
@@ -118,7 +118,7 @@ I won't be forking over \$15000 to put together an Allen Bradley system. Thankfu
 2. Koyo Click C2-08D2-6C: I/O module with 4x DIs, 4x DOs, 4x AIs (4-20mA), and 2x AOs (4-20mA) - **$90 USD**
 3. Koyo Click C0-04THM: Input module with 4x TCs - **$217 USD** (TC/RTD modules are so expensive...)
 
-![](/assets/images/koji_plc1/plc1.jpg){:width="450" .center}
+![](/assets/images/koji_plc1/plc1.JPG){:width="450" .center}
 
 Bonus: programming software for Koyo Click is free!
 
@@ -128,13 +128,13 @@ Since this project is mostly 'for fun', we can also also get away with refurbish
 
 After purchasing the necessary DIN rails, breakers, fuses, power supplies, terminal blocks, and relays, we can set up our system on a mock "test bench":
 
-![](/assets/images/koji_plc1/testbench1.jpg){:width="450" .center}
+![](/assets/images/koji_plc1/testbench1.JPG){:width="450" .center}
 
 Here's where you can really appreciate the convenience of industrial control panels. Everything here is mounted on a DIN rail, a piece of steel channel 35mm wide that allows users to switch out any component as needed. All wires are terminated at screw-in terminal blocks, meaning things can be re-wired quickly without soldering, easily diagnosed with a multimeter, but still be secure enough not to come loose from vibrations. 
 
 On the back of the test bench, we'll mount our sensors. These would normally go into the 'field', in our case, the koji room. 
 
-![](/assets/images/koji_plc1/testbench2.jpg){:width="450" .center}
+![](/assets/images/koji_plc1/testbench2.JPG){:width="450" .center}
 
 <div class="callout">
 ⚠ We are dealing with 120VAC line voltage, which can be dangerous. If you plan on DIY-ing something based on this post, please make sure you know what you're doing, or get a competent electrician. Also, there are codes that you must follow if you're actually putting together an industrial panel. This post is mostly for 'educational' purposes - my intent isn't to tell you how to put together a panel, but how PLCs work at a basic level. Stay safe!
