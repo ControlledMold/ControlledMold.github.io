@@ -43,14 +43,14 @@ This thing can run engineering simulations, design software, play many games at 
 Compare this with your typical small PLC. We'll use the North America's Allen Bradley as an example:
 
 1. CPU: Allen Bradley CompactLogix 1769-L33ER - around **$4000 CAD**
-2. I/O Modules: 16x Digital Inputs, 8x Digital Outputs, 4x Analog Inputs, 4x Analog Ouputs - around **$3000 CAD**
+2. I/O Modules: 16x Digital Inputs, 16x Digital Outputs, 4x Analog Inputs, 8x Analog Ouputs - around **$3000 CAD**
 3. Allen Bradley Programming Software - around **$1200 CAD** 
 
 ![](/assets/images/koji_plc1/Compactlogix.png){:width="450" .center}
 
 This thing can... switch stuff on and off? Take some measurements from sensors? All in, with power supplies, an electrical enclosure, terminal blocks, relays, pushbuttons, and communications, our example industrial panel will easily cost over **<u>$15000 CAD</u>**.
 
-Why not just use a normal PC? Well, when you're running a facility where downtime costs \$1M per day, the last thing you want is for the production line to be brought down by a \$100 component. PLCs need to be rugged, dust, shock, and vibration-proof, often running non-stop for decades on end. 
+Why not just use a normal PC? Well, when you're running a facility where downtime costs $1M per day, the last thing you want is for the production line to be brought down by a $100 component. PLCs need to be rugged, dust, shock, and vibration-proof, often running non-stop for decades on end. 
 
 It's not uncommon to show up to a wastewater treatment plant, open a control panel and find an old Allen Bradley SLC-500 installed in the early 90s still chugging along. For this kind of application (municipal infrastructure), you need something with that kind of reliability. The same goes for refineries, manufacturing plants, food processing plants, etc. 
 
@@ -104,7 +104,7 @@ Hopefully you're convinced by now, so let's put together a PLC system.
 Our first system will be simple. The PLC will have the following I/O:
 
 1. **Analog Inputs (AI):** Room RH (4-20mA), Room CO2 (4-20mA), Room temperature (Type K Thermocouple), and Product Temperature (Type K Thermocouple). 
-2. **Analog Outputs (AO): ** For now, none. In the future, we'll add one AO from a PID loop to control a variable heating element, and possibly variable-rate ventilation. 
+2. **Analog Outputs (AO):** For now, none. In the future, we'll add one AO from a PID loop to control a variable heating element, and possibly variable-rate ventilation. 
 3. **Digital Inputs (DI):** For now, none. In the future, we can add some basic pushbuttons and selector switches that let the user reset the system, stop everything, and select between LOCAL (panel control) and REMOTE (SCADA control).
 4. **Digital Outputs** **(DO)**: We'll wire digital outputs to relays to control: Heating, Humidification, Cooling, and Ventilation. 
 
