@@ -43,14 +43,14 @@ This thing can run engineering simulations, design software, play many games at 
 Compare this with your typical small PLC. We'll use the North America's Allen Bradley as an example:
 
 1. CPU: Allen Bradley CompactLogix 1769-L33ER - around **$4000 CAD**
-2. I/O Modules: 16x Digital Inputs, 16x Digital Outputs, 4x Analog Inputs, 8x Analog Ouputs - around **$3000 CAD**
+2. I/O Modules: 16x Digital Inputs, 16x Digital Outputs, 8x Analog Inputs, 4x Analog Ouputs - around **$3000 CAD**
 3. Allen Bradley Programming Software - around **$1200 CAD** 
 
 ![](/assets/images/koji_plc1/Compactlogix.png){:width="450" .center}
 
 This thing can... switch stuff on and off? Take some measurements from sensors? All in, with power supplies, an electrical enclosure, terminal blocks, relays, pushbuttons, and communications, our example industrial panel will easily cost over **<u>$15000 CAD</u>**.
 
-Why not just use a normal PC? Well, when you're running a facility where downtime costs $1M per day, the last thing you want is for the production line to be brought down by a $100 component. PLCs need to be rugged, dust, shock, and vibration-proof, often running non-stop for decades on end. 
+Why not just use a normal PC? Well, when you're running a facility where downtime costs $1M per day, the last thing you want is for the production line to be brought down by a 100 dollar component. PLCs need to be rugged, dust, shock, and vibration-proof, often running non-stop for decades on end. 
 
 It's not uncommon to show up to a wastewater treatment plant, open a control panel and find an old Allen Bradley SLC-500 installed in the early 90s still chugging along. For this kind of application (municipal infrastructure), you need something with that kind of reliability. The same goes for refineries, manufacturing plants, food processing plants, etc. 
 
