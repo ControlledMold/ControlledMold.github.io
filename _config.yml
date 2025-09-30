@@ -4,7 +4,6 @@ description: 'A blog about fermentation, engineering, and cell-ag'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 email: 'cam.davidson.pilon@gmail.com'
-disqus: controlledmold
 include: ["_pages"]
 permalink: /:title/
 url: https://controlledmold.com
