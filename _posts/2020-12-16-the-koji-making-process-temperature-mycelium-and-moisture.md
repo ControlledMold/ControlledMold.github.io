@@ -38,7 +38,7 @@ The entire process can roughly be broken down into three periods:
 
 A few caveats here:
 
-The graph above is for sake koji only, which finishes at a high temperature to produce a lot of amylase and suppress proteases. I've compiled all the temperature curves I have [here](https://imgur.com/a/q94PGBw). Sometimes there will be only two distinct temperature phases if the temperature requirements of periods 2. and 3. are identical.
+The graph above is for sake koji only, which finishes at a high temperature to produce a lot of amylase and suppress proteases. I've compiled the recovered reference temperature curves [below](#reference-temperature-curves). Sometimes there will be only two distinct temperature phases if the temperature requirements of periods 2. and 3. are identical.
 
 The exact shape and slope of the curve also depends on the koji-making method (more on methods [here](https://controlledmold.com/industrial-koji-fermentation-equipment/)). Machine-made koji will have very accurate temperature control, while traditional and manual methods will show a lot more variability and rely on frequent mixing to bring the temperature down.
 
@@ -130,11 +130,17 @@ I also suspect that because commercial producers are dealing with larger amounts
 
 #### Reference Temperature Curves
 
-I've posted all the temperature curves accumulated to date here:
+The surviving reference figures are reproduced here:
 
-[Koji-making temperature curves](https://imgur.com/a/q94PGBw)
+![Shochu koji temperature curves for rice and barley](/assets/images/koji_temp_curve/reference_shochu_temperature_curve.jpg){:width="650" .center}
 
-It includes curves for sake, miso, mirin, shoyu, and shochu. Again, shoyu and shochu work slightly differently than described in this post but I'll look at them in detail another time.
+*Shochu koji: rice (black dots) and barley (white dots). Source: Higuchi Matsunosuke Shoten.*
+
+![Sake koji temperature curves for machine, table, and tray methods](/assets/images/koji_temp_curve/reference_sake_koji_methods.jpg){:width="565" .center}
+
+*Sake koji. Top: machine method (black dots: partially automatic; white dots: fully automatic). Middle: table method. Bottom: tray method. Source: Koji Studies, Brewing Society of Japan.*
+
+These curves cover shochu made with rice and barley and sake koji made with three common methods. Shochu works slightly differently from the process described above.
 
 #### Reference Weight Ratios
 

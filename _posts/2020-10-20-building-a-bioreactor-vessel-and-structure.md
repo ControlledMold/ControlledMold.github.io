@@ -31,7 +31,7 @@ The theory is that cells will scatter the IR light off their surfaces and more c
 It's great that we can measure cell density, but what if we also wanted to build a photobioreactor? That is, what if we wanted to add LEDs that phototrophic algae could feed off of? Similarly, what if we wanted to introduce UV light into the culture, to induce higher rates of mutation in the organims? Furthermore, if we have *more* IR photodiodes, we could get better statistical estimates in our inference pipeline. Introducing our new vessel: 
 
 ![/assets/images/bioreactor_project/vessel/vesselv2.jpg](/assets/images/bioreactor_project/vessel/vesselv2.jpg){:.responsive .center}
-*Yes, this has been printed and is running now. 3D printer schematics available [here](https://github.com/CamDavidsonPilon/morbidostat/blob/master/3D_files/Holder%20v4.stl)*
+*Yes, this has been printed and is running now. 3D printer schematics available [here](https://github.com/Pioreactor/hardware/blob/b18441b583074ed50b1d3d82f542f397505f244b/3D_files/Holder%20v4.stl)*
 
 This has six LED holders for all the applications listed above. In the image below, we show off the application of 4 photodiodes (at 180°, 135°, 90° and 45°) and a UV LED. 
 
